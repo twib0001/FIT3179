@@ -1,0 +1,1084 @@
+Crash ID,State,Month,Year,Dayweek,Time,Crash_Type,Number_of_Fatalities,Bus_Involvement,Rigid_Truck_Involvement,Articulated_Truck_Involvement ,Speed_Limit,National_Remoteness_Region,SA4_Name_2016,LGA_Name_2017,National_Road_Type,Christmas_Period,Easter_Period
+20171002,NSW,December,2017,Thursday,11:50,Single vehicle,2,No,No,No,100,Outer Regional Australia,Riverina,Murrumbidgee,Arterial Road,No,No
+20171025,NSW,December,2017,Friday,17:00,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Sydney - Parramatta,Parramatta,Collector Road,No,No
+20171027,NSW,December,2017,Thursday,08:57,Multiple vehicle,1,No,No,Yes,110,Inner Regional Australia,Capital Region,Upper Lachlan,National Or State Highway,Yes,No
+20171048,NSW,December,2017,Sunday,14:45,Single vehicle,1,No,No,No,80,Major Cities of Australia,Sydney - Blacktown,Blacktown,Local Road,No,No
+20171067,NSW,December,2017,Tuesday,22:50,Multiple vehicle,1,No,Yes,No,60,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Penrith,Local Road,Yes,No
+20171079,NSW,December,2017,Friday,17:25,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Richmond - Tweed,Lismore,Arterial Road,No,No
+20171081,NSW,December,2017,Friday,11:00,Pedestrian,1,No,No,No,60,Major Cities of Australia,Sydney - North Sydney and Hornsby,Willoughby,Collector Road,No,No
+20171088,NSW,December,2017,Monday,10:15,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Central Coast,Central Coast,National Or State Highway,Yes,No
+20171091,NSW,December,2017,Monday,16:18,Multiple vehicle,2,No,No,No,100,Inner Regional Australia,Coffs Harbour - Grafton,Clarence Valley,National Or State Highway,No,No
+20171092,NSW,December,2017,Sunday,20:55,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Sydney - Inner South West,Bayside,Collector Road,No,No
+20171128,NSW,December,2017,Thursday,22:07,Single vehicle,1,No,No,No,50,Major Cities of Australia,Capital Region,Queanbeyan-Palerang Regional,Local Road,Yes,No
+20171133,NSW,December,2017,Tuesday,17:00,Single vehicle,1,No,No,No,110,Inner Regional Australia,Mid North Coast,Mid-Coast,National Or State Highway,Yes,No
+20171147,NSW,December,2017,Monday,06:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Hunter Valley exc Newcastle,Maitland,Arterial Road,No,No
+20171148,NSW,December,2017,Saturday,14:25,Single vehicle,1,No,No,Yes,100,Outer Regional Australia,Far West and Orana,Gilgandra,National Or State Highway,No,No
+20171150,NSW,December,2017,Saturday,19:19,Single vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Penrith,Collector Road,No,No
+20171153,NSW,December,2017,Tuesday,10:40,Multiple vehicle,5,No,No,No,100,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,National Or State Highway,Yes,No
+20171174,NSW,December,2017,Saturday,22:13,Multiple vehicle,1,No,No,No,90,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Penrith,National Or State Highway,No,No
+20171180,NSW,December,2017,Sunday,14:27,Single vehicle,1,No,No,No,100,Outer Regional Australia,Riverina,Junee,Arterial Road,No,No
+20171189,NSW,December,2017,Monday,06:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Riverina,Griffith,Arterial Road,Yes,No
+20171228,NSW,December,2017,Friday,19:10,Single vehicle,1,No,No,No,50,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Local Road,No,No
+20171241,NSW,December,2017,Saturday,02:00,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Newcastle and Lake Macquarie,Lake Macquarie,National Or State Highway,No,No
+20171243,NSW,December,2017,Friday,18:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Inverell,Arterial Road,No,No
+20171275,NSW,December,2017,Saturday,14:30,Single vehicle,1,No,No,No,100,Outer Regional Australia,Coffs Harbour - Grafton,Bellingen,Arterial Road,Yes,No
+20171278,NSW,December,2017,Saturday,02:30,Single vehicle,1,No,No,No,80,Major Cities of Australia,Sydney - Blacktown,Blacktown,Collector Road,No,No
+20171282,NSW,December,2017,Tuesday,16:15,Multiple vehicle,1,No,Yes,No,50,Major Cities of Australia,Sydney - North Sydney and Hornsby,Hornsby,Local Road,No,No
+20171283,NSW,December,2017,Saturday,05:45,Single vehicle,1,No,No,No,50,Outer Regional Australia,Riverina,Narrandera,Arterial Road,No,No
+20171287,NSW,December,2017,Thursday,23:00,Pedestrian,1,No,No,No,60,Major Cities of Australia,Newcastle and Lake Macquarie,Newcastle,Sub-Arterial Road,No,No
+20171288,NSW,December,2017,Monday,15:45,Single vehicle,1,No,No,No,100,Inner Regional Australia,Hunter Valley exc Newcastle,Dungog,Arterial Road,No,No
+20171289,NSW,December,2017,Saturday,22:45,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Walcha,Sub-Arterial Road,Yes,No
+20171292,NSW,December,2017,Thursday,12:15,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Central West,Mid-Western Regional,National Or State Highway,No,No
+20171310,NSW,December,2017,Saturday,11:30,Single vehicle,1,No,No,No,100,Outer Regional Australia,Far West and Orana,Narromine,Local Road,Yes,No
+20171311,NSW,December,2017,Tuesday,04:45,Single vehicle,1,No,No,No,80,Outer Regional Australia,Mid North Coast,Port Macquarie-Hastings,Sub-Arterial Road,Yes,No
+20171313,NSW,December,2017,Saturday,20:25,Single vehicle,1,No,No,No,100,Outer Regional Australia,Far West and Orana,Cabonne,Sub-Arterial Road,No,No
+20171338,NSW,December,2017,Sunday,11:05,Single vehicle,1,No,No,No,100,Remote Australia,Far West and Orana,Bogan,Arterial Road,No,No
+20171008,NSW,November,2017,Friday,02:50,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Hunter Valley exc Newcastle,Maitland,Local Road,No,No
+20171012,NSW,November,2017,Tuesday,05:05,Single vehicle,1,No,No,No,100,Inner Regional Australia,Mid North Coast,Mid-Coast,National Or State Highway,No,No
+20171019,NSW,November,2017,Monday,18:30,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - Eastern Suburbs,Woollahra,Arterial Road,No,No
+20171034,NSW,November,2017,Saturday,15:55,Single vehicle,1,No,No,No,50,Inner Regional Australia,Mid North Coast,Mid-Coast,Local Road,No,No
+20171035,NSW,November,2017,Saturday,11:30,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Sydney - Outer South West,Wollondilly,Local Road,No,No
+20171059,NSW,November,2017,Sunday,18:40,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Central West,Forbes,Sub-Arterial Road,No,No
+20171063,NSW,November,2017,Wednesday,12:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Sydney - Baulkham Hills and Hawkesbury,Hawkesbury,Arterial Road,No,No
+20171082,NSW,November,2017,Saturday,15:00,Multiple vehicle,1,No,No,No,50,Inner Regional Australia,Hunter Valley exc Newcastle,Cessnock,Local Road,No,No
+20171099,NSW,November,2017,Wednesday,07:10,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Arterial Road,No,No
+20171109,NSW,November,2017,Tuesday,16:38,Single vehicle,1,No,No,No,100,Outer Regional Australia,Capital Region,Snowy Monaro Regional,National Or State Highway,No,No
+20171110,NSW,November,2017,Wednesday,13:30,Pedestrian,1,No,No,Yes,110,Inner Regional Australia,Capital Region,Yass Valley,National Or State Highway,No,No
+20171111,NSW,November,2017,Thursday,14:45,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,Arterial Road,No,No
+20171137,NSW,November,2017,Friday,04:06,Single vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Narrabri,National Or State Highway,No,No
+20171145,NSW,November,2017,Sunday,21:15,Single vehicle,1,No,No,No,80,Inner Regional Australia,Capital Region,Goulburn Mulwaree,Sub-Arterial Road,No,No
+20171157,NSW,November,2017,Wednesday,06:09,Single vehicle,1,No,No,No,100,Outer Regional Australia,Coffs Harbour - Grafton,Bellingen,Arterial Road,No,No
+20171161,NSW,November,2017,Friday,12:45,Pedestrian,1,No,No,No,60,Major Cities of Australia,Newcastle and Lake Macquarie,Newcastle,National Or State Highway,No,No
+20171163,NSW,November,2017,Friday,08:22,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Riverina,Leeton,Sub-Arterial Road,No,No
+20171176,NSW,November,2017,Sunday,17:50,Single vehicle,2,No,No,No,110,Outer Regional Australia,Murray,Edward River,National Or State Highway,No,No
+20171185,NSW,November,2017,Saturday,15:00,Pedestrian,1,No,No,No,60,Major Cities of Australia,Sydney - Eastern Suburbs,Randwick,Local Road,No,No
+20171193,NSW,November,2017,Saturday,23:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Southern Highlands and Shoalhaven,Wingecarribee,Arterial Road,No,No
+20171202,NSW,November,2017,Monday,17:47,Multiple vehicle,2,No,Yes,No,100,Remote Australia,Central West,Lachlan,Arterial Road,No,No
+20171206,NSW,November,2017,Sunday,09:45,Single vehicle,1,No,No,No,80,Inner Regional Australia,Richmond - Tweed,Tweed,Local Road,No,No
+20171207,NSW,November,2017,Wednesday,08:10,Multiple vehicle,1,No,Yes,No,100,Outer Regional Australia,Hunter Valley exc Newcastle,Upper Hunter,National Or State Highway,No,No
+20171212,NSW,November,2017,Wednesday,14:50,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Sydney - Sutherland,Sutherland,Sub-Arterial Road,No,No
+20171220,NSW,November,2017,Sunday,05:55,Single vehicle,1,No,No,No,110,Outer Regional Australia,Far West and Orana,Narromine,National Or State Highway,No,No
+20171226,NSW,November,2017,Thursday,21:30,Single vehicle,1,No,No,No,100,Inner Regional Australia,Mid North Coast,Mid-Coast,Sub-Arterial Road,No,No
+20171232,NSW,November,2017,Tuesday,13:37,Multiple vehicle,2,No,No,No,80,Major Cities of Australia,Sydney - South West,Penrith,Arterial Road,No,No
+20171267,NSW,November,2017,Sunday,17:34,Pedestrian,2,No,No,No,110,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,National Or State Highway,No,No
+20171321,NSW,November,2017,Sunday,12:31,Multiple vehicle,1,No,No,No,80,Outer Regional Australia,Riverina,Snowy Valleys,Sub-Arterial Road,No,No
+20171329,NSW,November,2017,Monday,22:51,Single vehicle,1,No,No,No,80,Major Cities of Australia,Sydney - Northern Beaches,Northern Beaches,Arterial Road,No,No
+20171331,NSW,November,2017,Saturday,11:10,Pedestrian,1,No,No,No,40,Inner Regional Australia,Illawarra,Kiama,Sub-Arterial Road,No,No
+20171337,NSW,November,2017,Tuesday,22:14,Single vehicle,1,No,No,No,50,Major Cities of Australia,Central Coast,Central Coast,Collector Road,No,No
+20171340,NSW,November,2017,Sunday,00:10,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Central Coast,Central Coast,Arterial Road,No,No
+20171346,NSW,November,2017,Wednesday,15:50,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Central West,Bathurst Regional,Arterial Road,No,No
+20171030,NSW,October,2017,Sunday,10:10,Pedestrian,1,No,No,Yes,50,Outer Regional Australia,Central West,Parkes,Local Road,No,No
+20171033,NSW,October,2017,Sunday,14:15,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Hunter Valley exc Newcastle,Singleton,National Or State Highway,No,No
+20171038,NSW,October,2017,Monday,10:00,Multiple vehicle,1,No,No,No,50,Inner Regional Australia,Riverina,Wagga Wagga,Local Road,No,No
+20171039,NSW,October,2017,Saturday,04:00,Multiple vehicle,1,No,No,Yes,100,Outer Regional Australia,Mid North Coast,Nambucca,National Or State Highway,No,No
+20171044,NSW,October,2017,Thursday,10:55,Multiple vehicle,1,No,No,No,50,Inner Regional Australia,Riverina,Cootamundra-Gundagai,Arterial Road,No,No
+20171056,NSW,October,2017,Saturday,03:59,Multiple vehicle,1,No,No,Yes,110,Inner Regional Australia,Southern Highlands and Shoalhaven,Wingecarribee,National Or State Highway,No,No
+20171076,NSW,October,2017,Saturday,02:26,Single vehicle,1,No,No,No,100,Inner Regional Australia,Mid North Coast,Mid-Coast,Local Road,No,No
+20171078,NSW,October,2017,Wednesday,16:25,Multiple vehicle,2,No,No,No,100,Inner Regional Australia,Central West,Cabonne,National Or State Highway,No,No
+20171084,NSW,October,2017,Friday,20:20,Single vehicle,1,No,No,No,100,Outer Regional Australia,Far West and Orana,Warrumbungle,Sub-Arterial Road,No,No
+20171094,NSW,October,2017,Thursday,02:10,Single vehicle,1,No,No,No,80,Major Cities of Australia,Sydney - Blacktown,Blacktown,National Or State Highway,No,No
+20171104,NSW,October,2017,Saturday,03:20,Single vehicle,1,No,No,No,70,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Sub-Arterial Road,No,No
+20171126,NSW,October,2017,Wednesday,14:40,Single vehicle,1,No,No,No,80,Inner Regional Australia,Capital Region,Goulburn Mulwaree,Sub-Arterial Road,No,No
+20171129,NSW,October,2017,Wednesday,21:00,Single vehicle,1,No,No,No,50,Outer Regional Australia,Far West and Orana,Warrumbungle,Access Road,No,No
+20171146,NSW,October,2017,Saturday,23:15,Single vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Narrabri,Sub-Arterial Road,No,No
+20171155,NSW,October,2017,Saturday,04:30,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Mid North Coast,Port Macquarie-Hastings,National Or State Highway,No,No
+20171167,NSW,October,2017,Monday,00:50,Single vehicle,1,No,No,No,100,Inner Regional Australia,Capital Region,Shoalhaven,National Or State Highway,No,No
+20171179,NSW,October,2017,Saturday,22:30,Single vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - South West,Camden,Sub-Arterial Road,No,No
+20171186,NSW,October,2017,Sunday,06:10,Single vehicle,1,No,No,No,100,Inner Regional Australia,Mid North Coast,Mid-Coast,Sub-Arterial Road,No,No
+20171197,NSW,October,2017,Sunday,17:05,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Sydney - Sutherland,Sutherland,Arterial Road,No,No
+20171231,NSW,October,2017,Saturday,02:16,Pedestrian,1,No,No,No,60,Major Cities of Australia,Sydney - Ryde,Hunters Hill,Arterial Road,No,No
+20171244,NSW,October,2017,Thursday,04:15,Single vehicle,1,No,No,No,110,Outer Regional Australia,Riverina,Murrumbidgee,National Or State Highway,No,No
+20171276,NSW,October,2017,Monday,12:10,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Glen Innes Severn,National Or State Highway,No,No
+20171298,NSW,October,2017,Thursday,13:10,Multiple vehicle,1,No,Yes,No,60,Major Cities of Australia,Sydney - South West,Fairfield,Local Road,No,No
+20171308,NSW,October,2017,Tuesday,15:10,Multiple vehicle,1,No,Yes,No,100,Inner Regional Australia,New England and North West,Tamworth Regional,National Or State Highway,No,No
+20171320,NSW,October,2017,Wednesday,11:40,Pedestrian,1,No,No,No,60,Major Cities of Australia,Sydney - Sutherland,Sutherland,Arterial Road,No,No
+20171339,NSW,October,2017,Saturday,05:30,Multiple vehicle,1,No,No,No,110,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,National Or State Highway,No,No
+20171347,NSW,October,2017,Thursday,14:45,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Inverell,Arterial Road,No,No
+20171015,NSW,September,2017,Saturday,19:15,Pedestrian,1,No,No,No,60,Inner Regional Australia,Far West and Orana,Dubbo Regional,National Or State Highway,No,No
+20171021,NSW,September,2017,Saturday,11:35,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Sydney - North Sydney and Hornsby,Hornsby,National Or State Highway,No,No
+20171054,NSW,September,2017,Monday,01:25,Single vehicle,1,No,No,No,60,Inner Regional Australia,Murray,Albury,Local Road,No,No
+20171123,NSW,September,2017,Sunday,04:40,Pedestrian,1,No,No,No,60,Major Cities of Australia,Sydney - Inner South West,Canterbury-Bankstown,Arterial Road,No,No
+20171134,NSW,September,2017,Friday,13:20,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - Eastern Suburbs,Waverley,Arterial Road,No,No
+20171138,NSW,September,2017,Tuesday,08:50,Multiple vehicle,1,No,No,Yes,100,Inner Regional Australia,Mid North Coast,Port Macquarie-Hastings,National Or State Highway,No,No
+20171139,NSW,September,2017,Monday,18:00,Single vehicle,1,No,No,No,50,Inner Regional Australia,Coffs Harbour - Grafton,Coffs Harbour,Sub-Arterial Road,No,No
+20171152,NSW,September,2017,Thursday,18:57,Pedestrian,1,No,No,No,60,Major Cities of Australia,Sydney - North Sydney and Hornsby,Hornsby,National Or State Highway,No,No
+20171165,NSW,September,2017,Friday,12:30,Multiple vehicle,1,No,Yes,No,80,Major Cities of Australia,Sydney - Baulkham Hills and Hawkesbury,Hawkesbury,Arterial Road,No,No
+20171192,NSW,September,2017,Monday,06:10,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - South West,Fairfield,Collector Road,No,No
+20171215,NSW,September,2017,Wednesday,05:03,Multiple vehicle,1,No,No,Yes,110,Inner Regional Australia,Southern Highlands and Shoalhaven,Wingecarribee,National Or State Highway,No,No
+20171223,NSW,September,2017,Friday,15:40,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Mid North Coast,Port Macquarie-Hastings,Arterial Road,No,No
+20171246,NSW,September,2017,Thursday,09:54,Pedestrian,1,No,No,No,40,Major Cities of Australia,Illawarra,Shellharbour,Collector Road,No,No
+20171249,NSW,September,2017,Monday,07:40,Single vehicle,1,No,No,No,80,Inner Regional Australia,Coffs Harbour - Grafton,Clarence Valley,National Or State Highway,No,No
+20171253,NSW,September,2017,Saturday,16:09,Single vehicle,1,No,No,No,100,Outer Regional Australia,Hunter Valley exc Newcastle,Upper Hunter,National Or State Highway,No,No
+20171280,NSW,September,2017,Sunday,20:49,Single vehicle,1,No,No,No,70,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Penrith,Collector Road,No,No
+20171281,NSW,September,2017,Thursday,15:10,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Hunter Valley exc Newcastle,Cessnock,Arterial Road,No,No
+20171299,NSW,September,2017,Friday,20:50,Pedestrian,1,No,Yes,No,100,Inner Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Arterial Road,No,No
+20171307,NSW,September,2017,Saturday,02:40,Single vehicle,3,No,No,No,50,Major Cities of Australia,Sydney - City and Inner South,Sydney,Collector Road,No,No
+20171309,NSW,September,2017,Tuesday,20:30,Single vehicle,1,No,No,No,100,Outer Regional Australia,Riverina,Junee,Sub-Arterial Road,No,No
+20171314,NSW,September,2017,Tuesday,18:22,Single vehicle,1,No,No,No,50,Major Cities of Australia,Central Coast,Central Coast,Local Road,No,No
+20171333,NSW,September,2017,Thursday,20:00,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Illawarra,Wollongong,Collector Road,No,No
+20171334,NSW,September,2017,Wednesday,13:30,Single vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Inverell,National Or State Highway,No,No
+20171335,NSW,September,2017,Thursday,11:05,Single vehicle,1,No,No,No,110,Inner Regional Australia,Mid North Coast,Port Macquarie-Hastings,National Or State Highway,No,No
+20171344,NSW,September,2017,Friday,14:30,Single vehicle,1,No,No,No,50,Inner Regional Australia,Riverina,Cootamundra-Gundagai,Arterial Road,No,No
+20171007,NSW,August,2017,Monday,09:15,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Coffs Harbour - Grafton,Clarence Valley,National Or State Highway,No,No
+20171010,NSW,August,2017,Tuesday,00:30,Single vehicle,1,No,No,No,50,Inner Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Local Road,No,No
+20171013,NSW,August,2017,Tuesday,09:00,Multiple vehicle,1,No,No,Yes,100,Inner Regional Australia,Central West,Bathurst Regional,National Or State Highway,No,No
+20171022,NSW,August,2017,Saturday,10:50,Multiple vehicle,1,No,No,No,80,Outer Regional Australia,Coffs Harbour - Grafton,Bellingen,Arterial Road,No,No
+20171040,NSW,August,2017,Friday,04:45,Single vehicle,1,No,No,No,100,Outer Regional Australia,Central West,Cowra,Arterial Road,No,No
+20171041,NSW,August,2017,Tuesday,16:00,Multiple vehicle,1,No,No,No,110,Inner Regional Australia,Mid North Coast,Mid-Coast,National Or State Highway,No,No
+20171045,NSW,August,2017,Wednesday,16:15,Single vehicle,1,No,No,No,100,Outer Regional Australia,Capital Region,Bega Valley,Sub-Arterial Road,No,No
+20171052,NSW,August,2017,Wednesday,23:54,Single vehicle,1,No,No,No,60,Major Cities of Australia,Central Coast,Central Coast,Arterial Road,No,No
+20171065,NSW,August,2017,Thursday,13:30,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,New England and North West,Tamworth Regional,Arterial Road,No,No
+20171069,NSW,August,2017,Friday,14:43,Multiple vehicle,2,No,Yes,No,100,Outer Regional Australia,Far West and Orana,Dubbo Regional,National Or State Highway,No,No
+20171073,NSW,August,2017,Thursday,08:00,Multiple vehicle,1,No,No,Yes,100,Outer Regional Australia,New England and North West,Tamworth Regional,National Or State Highway,No,No
+20171074,NSW,August,2017,Sunday,12:00,Single vehicle,1,No,No,No,50,Inner Regional Australia,Murray,Greater Hume,Arterial Road,No,No
+20171085,NSW,August,2017,Sunday,16:35,Single vehicle,2,No,No,No,110,Inner Regional Australia,Richmond - Tweed,Tweed,Access Road,No,No
+20171087,NSW,August,2017,Wednesday,16:30,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - Outer South West,Campbelltown,Collector Road,No,No
+20171119,NSW,August,2017,Tuesday,11:50,Single vehicle,1,No,No,No,50,Inner Regional Australia,Mid North Coast,Port Macquarie-Hastings,Local Road,No,No
+20171127,NSW,August,2017,Thursday,10:00,Pedestrian,1,No,No,No,60,Major Cities of Australia,Sydney - Inner West,Burwood,Local Road,No,No
+20171141,NSW,August,2017,Wednesday,07:35,Pedestrian,1,No,No,No,60,Major Cities of Australia,Sydney - Parramatta,Parramatta,Local Road,No,No
+20171156,NSW,August,2017,Wednesday,13:35,Multiple vehicle,1,No,No,Yes,110,Remote Australia,Riverina,Carrathool,National Or State Highway,No,No
+20171159,NSW,August,2017,Thursday,14:50,Single vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - Ryde,Ryde,Arterial Road,No,No
+20171173,NSW,August,2017,Saturday,15:50,Single vehicle,1,No,No,No,100,Remote Australia,Murray,Wentworth,Local Road,No,No
+20171187,NSW,August,2017,Monday,03:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Sydney - Sutherland,Sutherland,Arterial Road,No,No
+20171190,NSW,August,2017,Monday,15:20,Multiple vehicle,1,No,Yes,No,100,Major Cities of Australia,Sydney - South West,Liverpool,National Or State Highway,No,No
+20171195,NSW,August,2017,Sunday,19:45,Single vehicle,1,No,No,No,50,Major Cities of Australia,Richmond - Tweed,Tweed,Sub-Arterial Road,No,No
+20171199,NSW,August,2017,Saturday,05:12,Single vehicle,1,No,No,No,100,Outer Regional Australia,Central West,Bland,Arterial Road,No,No
+20171211,NSW,August,2017,Wednesday,17:45,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Sydney - South West,Liverpool,Arterial Road,No,No
+20171221,NSW,August,2017,Monday,08:55,Single vehicle,1,No,No,No,100,Outer Regional Australia,Mid North Coast,Kempsey,Arterial Road,No,No
+20171224,NSW,August,2017,Saturday,22:45,Single vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Glen Innes Severn,Sub-Arterial Road,No,No
+20171234,NSW,August,2017,Tuesday,11:00,Single vehicle,1,No,No,No,110,Inner Regional Australia,Hunter Valley exc Newcastle,Port Stephens,Local Road,No,No
+20171235,NSW,August,2017,Thursday,11:30,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Central Coast,Central Coast,Arterial Road,No,No
+20171238,NSW,August,2017,Saturday,07:56,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Coffs Harbour - Grafton,Clarence Valley,National Or State Highway,No,No
+20171257,NSW,August,2017,Monday,09:30,Single vehicle,1,No,No,No,100,Very Remote Australia,Far West and Orana,Unincorporated,Sub-Arterial Road,No,No
+20171258,NSW,August,2017,Wednesday,13:50,Single vehicle,1,No,No,Yes,100,Outer Regional Australia,Riverina,Narrandera,National Or State Highway,No,No
+20171262,NSW,August,2017,Friday,22:00,Pedestrian,1,No,No,No,70,Major Cities of Australia,Sydney - Blacktown,Blacktown,Arterial Road,No,No
+20171263,NSW,August,2017,Sunday,13:30,Multiple vehicle,1,No,No,No,80,Outer Regional Australia,Hunter Valley exc Newcastle,Singleton,Arterial Road,No,No
+20171277,NSW,August,2017,Sunday,14:27,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Hunter Valley exc Newcastle,Singleton,Local Road,No,No
+20171302,NSW,August,2017,Tuesday,08:50,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Newcastle and Lake Macquarie,Newcastle,Arterial Road,No,No
+20171306,NSW,August,2017,Tuesday,01:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - Inner South West,Georges River,Arterial Road,No,No
+20171326,NSW,August,2017,Saturday,11:01,Single vehicle,1,No,No,No,90,Major Cities of Australia,Central Coast,Central Coast,Arterial Road,No,No
+20171341,NSW,August,2017,Wednesday,07:30,Pedestrian,1,No,No,No,50,Major Cities of Australia,Sydney - Ryde,Ryde,Local Road,No,No
+20171014,NSW,July,2017,Monday,08:20,Single vehicle,1,No,No,No,110,Inner Regional Australia,Mid North Coast,Port Macquarie-Hastings,National Or State Highway,No,No
+20171028,NSW,July,2017,Tuesday,10:55,Single vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - Blacktown,Blacktown,Collector Road,No,No
+20171053,NSW,July,2017,Wednesday,15:50,Pedestrian,1,No,No,No,50,Major Cities of Australia,Sydney - Ryde,Ryde,Local Road,No,No
+20171077,NSW,July,2017,Friday,19:10,Pedestrian,1,No,No,No,70,Major Cities of Australia,Sydney - Ryde,Ryde,Arterial Road,No,No
+20171083,NSW,July,2017,Friday,08:11,Multiple vehicle,1,No,No,No,50,Outer Regional Australia,New England and North West,Tamworth Regional,National Or State Highway,No,No
+20171086,NSW,July,2017,Thursday,12:45,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Sydney - South West,Fairfield,Local Road,No,No
+20171089,NSW,July,2017,Sunday,06:30,Single vehicle,1,No,No,No,100,Inner Regional Australia,New England and North West,Tamworth Regional,Arterial Road,No,No
+20171090,NSW,July,2017,Thursday,17:40,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Capital Region,Goulburn Mulwaree,Arterial Road,No,No
+20171093,NSW,July,2017,Saturday,07:20,Multiple vehicle,1,No,No,No,110,Inner Regional Australia,Capital Region,Goulburn Mulwaree,National Or State Highway,No,No
+20171100,NSW,July,2017,Wednesday,18:35,Multiple vehicle,2,No,No,Yes,110,Inner Regional Australia,Southern Highlands and Shoalhaven,Wingecarribee,Local Road,No,No
+20171113,NSW,July,2017,Thursday,04:00,Single vehicle,2,No,Yes,No,80,Outer Regional Australia,Mid North Coast,Mid-Coast,Sub-Arterial Road,No,No
+20171114,NSW,July,2017,Tuesday,13:10,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - North Sydney and Hornsby,Ku-ring-gai,Arterial Road,No,No
+20171132,NSW,July,2017,Saturday,13:44,Pedestrian,1,No,No,No,50,Major Cities of Australia,Sydney - Parramatta,Cumberland,Collector Road,No,No
+20171140,NSW,July,2017,Sunday,02:15,Single vehicle,1,No,No,No,100,Inner Regional Australia,Riverina,Cootamundra-Gundagai,Arterial Road,No,No
+20171149,NSW,July,2017,Tuesday,14:55,Pedestrian,1,No,No,No,50,Major Cities of Australia,Sydney - North Sydney and Hornsby,Ku-ring-gai,Collector Road,No,No
+20171171,NSW,July,2017,Tuesday,01:09,Single vehicle,1,No,No,No,80,Major Cities of Australia,Sydney - Northern Beaches,Northern Beaches,Arterial Road,No,No
+20171178,NSW,July,2017,Monday,11:20,Multiple vehicle,1,No,No,Yes,80,Major Cities of Australia,Newcastle and Lake Macquarie,Newcastle,Arterial Road,No,No
+20171181,NSW,July,2017,Saturday,21:45,Pedestrian,1,No,No,Yes,110,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,National Or State Highway,No,No
+20171182,NSW,July,2017,Friday,15:50,Single vehicle,1,No,No,No,110,Inner Regional Australia,Capital Region,Yass Valley,National Or State Highway,No,No
+20171213,NSW,July,2017,Sunday,05:30,Single vehicle,1,No,No,No,110,Outer Regional Australia,Far West and Orana,Narromine,National Or State Highway,No,No
+20171214,NSW,July,2017,Sunday,16:35,Single vehicle,1,No,No,No,110,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,National Or State Highway,No,No
+20171218,NSW,July,2017,Monday,07:20,Multiple vehicle,1,No,Yes,No,100,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,Sub-Arterial Road,No,No
+20171222,NSW,July,2017,Wednesday,04:15,Pedestrian,1,No,No,No,100,Inner Regional Australia,Hunter Valley exc Newcastle,Muswellbrook,National Or State Highway,No,No
+20171227,NSW,July,2017,Thursday,17:10,Single vehicle,1,No,No,No,80,Outer Regional Australia,New England and North West,Glen Innes Severn,Local Road,No,No
+20171233,NSW,July,2017,Tuesday,14:30,Pedestrian,1,No,No,No,60,Major Cities of Australia,Sydney - South West,Fairfield,Collector Road,No,No
+20171256,NSW,July,2017,Sunday,12:30,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Hunter Valley exc Newcastle,Dungog,Sub-Arterial Road,No,No
+20171261,NSW,July,2017,Tuesday,07:50,Pedestrian,1,No,Yes,No,50,Major Cities of Australia,Central Coast,Central Coast,Local Road,No,No
+20171274,NSW,July,2017,Monday,12:30,Single vehicle,1,No,No,No,80,Inner Regional Australia,Richmond - Tweed,Byron,Arterial Road,No,No
+20171285,NSW,July,2017,Monday,17:10,Multiple vehicle,1,No,Yes,No,70,Major Cities of Australia,Sydney - Parramatta,Parramatta,Arterial Road,No,No
+20171294,NSW,July,2017,Wednesday,13:05,Multiple vehicle,2,No,No,Yes,40,Outer Regional Australia,New England and North West,Tamworth Regional,National Or State Highway,No,No
+20171319,NSW,July,2017,Saturday,19:30,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Murray,Wentworth,Local Road,No,No
+20171325,NSW,July,2017,Saturday,07:35,Multiple vehicle,2,No,No,Yes,110,Outer Regional Australia,New England and North West,Moree Plains,National Or State Highway,No,No
+20171328,NSW,July,2017,Saturday,06:22,Single vehicle,1,No,No,No,50,Major Cities of Australia,Sydney - Parramatta,Canterbury-Bankstown,Collector Road,No,No
+20171345,NSW,July,2017,Sunday,06:30,Multiple vehicle,2,No,No,No,110,Remote Australia,Murray,Wentworth,National Or State Highway,No,No
+20171350,NSW,July,2017,Thursday,09:40,Pedestrian,1,No,No,No,40,Major Cities of Australia,Sydney - North Sydney and Hornsby,Willoughby,Collector Road,No,No
+20171009,NSW,June,2017,Sunday,16:30,Single vehicle,1,No,No,No,100,Inner Regional Australia,Central West,Orange,Sub-Arterial Road,No,No
+20171018,NSW,June,2017,Sunday,02:00,Multiple vehicle,2,No,No,No,50,Major Cities of Australia,Illawarra,Wollongong,Collector Road,No,No
+20171023,NSW,June,2017,Saturday,03:11,Multiple vehicle,1,Yes,No,No,40,Major Cities of Australia,Sydney - City and Inner South,Sydney,Collector Road,No,No
+20171031,NSW,June,2017,Wednesday,08:10,Multiple vehicle,1,No,No,No,50,Inner Regional Australia,Richmond - Tweed,Kyogle,Local Road,No,No
+20171032,NSW,June,2017,Thursday,14:15,Single vehicle,1,No,No,No,110,Inner Regional Australia,Capital Region,Yass Valley,National Or State Highway,No,No
+20171037,NSW,June,2017,Thursday,06:55,Multiple vehicle,1,No,No,Yes,60,Major Cities of Australia,Sydney - Parramatta,Parramatta,Collector Road,No,No
+20171046,NSW,June,2017,Wednesday,12:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Central West,Bathurst Regional,Arterial Road,No,No
+20171061,NSW,June,2017,Thursday,14:10,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,Sub-Arterial Road,No,No
+20171108,NSW,June,2017,Saturday,15:30,Single vehicle,1,No,No,No,70,Outer Regional Australia,Mid North Coast,Kempsey,Local Road,No,No
+20171120,NSW,June,2017,Wednesday,08:40,Multiple vehicle,1,No,Yes,No,100,Inner Regional Australia,Riverina,Snowy Valleys,National Or State Highway,No,No
+20171121,NSW,June,2017,Tuesday,17:20,Pedestrian,1,No,No,No,50,Major Cities of Australia,Sydney - North Sydney and Hornsby,Willoughby,Collector Road,No,No
+20171130,NSW,June,2017,Sunday,18:45,Single vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Tamworth Regional,National Or State Highway,No,No
+20171135,NSW,June,2017,Tuesday,18:09,Pedestrian,1,No,No,No,50,Inner Regional Australia,Hunter Valley exc Newcastle,Singleton,Local Road,No,No
+20171144,NSW,June,2017,Saturday,12:39,Pedestrian,1,No,No,No,50,Major Cities of Australia,Sydney - South West,Fairfield,Collector Road,No,No
+20171219,NSW,June,2017,Monday,15:45,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Richmond - Tweed,Ballina,Sub-Arterial Road,No,No
+20171236,NSW,June,2017,Saturday,10:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Murray,Berrigan,Local Road,No,No
+20171242,NSW,June,2017,Saturday,00:10,Single vehicle,1,No,No,No,100,Inner Regional Australia,Capital Region,Upper Lachlan,Arterial Road,No,No
+20171248,NSW,June,2017,Sunday,12:48,Single vehicle,1,No,No,No,100,Outer Regional Australia,Central West,Warrumbungle,National Or State Highway,No,No
+20171252,NSW,June,2017,Wednesday,18:10,Pedestrian,2,No,No,No,40,Major Cities of Australia,Illawarra,Wollongong,Collector Road,No,No
+20171269,NSW,June,2017,Monday,02:25,Single vehicle,1,No,No,No,110,Outer Regional Australia,Murray,Greater Hume,National Or State Highway,No,No
+20171291,NSW,June,2017,Friday,10:10,Pedestrian,1,No,No,No,50,Major Cities of Australia,Sydney - Inner South West,Canterbury-Bankstown,Local Road,No,No
+20171303,NSW,June,2017,Sunday,14:25,Multiple vehicle,1,No,No,No,80,Outer Regional Australia,Riverina,Griffith,Local Road,No,No
+20171312,NSW,June,2017,Sunday,15:18,Single vehicle,1,No,No,Yes,100,Outer Regional Australia,Central West,Warrumbungle,National Or State Highway,No,No
+20171316,NSW,June,2017,Thursday,12:55,Multiple vehicle,2,No,No,Yes,110,Outer Regional Australia,Murray,Edward River,National Or State Highway,No,No
+20171317,NSW,June,2017,Wednesday,10:00,Single vehicle,1,No,No,No,80,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Penrith,Arterial Road,No,No
+20171322,NSW,June,2017,Thursday,01:35,Single vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Blue Mountains,Arterial Road,No,No
+20171332,NSW,June,2017,Friday,13:37,Multiple vehicle,1,No,Yes,No,60,Major Cities of Australia,Sydney - Parramatta,Parramatta,Local Road,No,No
+20171349,NSW,June,2017,Saturday,20:50,Single vehicle,1,No,No,No,100,Outer Regional Australia,Coffs Harbour - Grafton,Coffs Harbour,Arterial Road,No,No
+20171001,NSW,May,2017,Tuesday,14:11,Multiple vehicle,1,No,No,No,110,Inner Regional Australia,Capital Region,Goulburn Mulwaree,National Or State Highway,No,No
+20171016,NSW,May,2017,Thursday,14:50,Single vehicle,1,No,No,No,90,Inner Regional Australia,Capital Region,Eurobodalla,Arterial Road,No,No
+20171017,NSW,May,2017,Wednesday,18:00,Pedestrian,1,No,No,No,60,Major Cities of Australia,Sydney - City and Inner South,Sydney,Pedestrian Thoroughfare,No,No
+20171043,NSW,May,2017,Thursday,04:36,Multiple vehicle,2,No,No,No,60,Major Cities of Australia,Sydney - City and Inner South,Inner West,Local Road,No,No
+20171064,NSW,May,2017,Friday,03:00,Single vehicle,1,No,No,No,50,Inner Regional Australia,Richmond - Tweed,Kyogle,Arterial Road,No,No
+20171075,NSW,May,2017,Thursday,17:25,Single vehicle,1,No,No,No,50,Major Cities of Australia,Sydney - Outer South West,Camden,Local Road,No,No
+20171095,NSW,May,2017,Friday,08:25,Single vehicle,1,Yes,No,No,50,Major Cities of Australia,Sydney - Parramatta,Parramatta,Collector Road,No,No
+20171097,NSW,May,2017,Tuesday,13:07,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Illawarra,Shellharbour,Local Road,No,No
+20171098,NSW,May,2017,Friday,14:30,Single vehicle,1,No,No,No,100,Outer Regional Australia,Hunter Valley exc Newcastle,Upper Hunter,National Or State Highway,No,No
+20171102,NSW,May,2017,Tuesday,21:00,Single vehicle,1,No,No,No,70,Major Cities of Australia,Sydney - City and Inner South,Bayside,National Or State Highway,No,No
+20171116,NSW,May,2017,Tuesday,10:15,Multiple vehicle,1,No,No,Yes,110,Major Cities of Australia,Central Coast,Central Coast,National Or State Highway,No,No
+20171151,NSW,May,2017,Thursday,06:40,Single vehicle,1,No,No,No,50,Major Cities of Australia,Sydney - South West,Liverpool,Collector Road,No,No
+20171158,NSW,May,2017,Monday,06:00,Single vehicle,1,No,No,Yes,100,Outer Regional Australia,Murray,Berrigan,National Or State Highway,No,No
+20171168,NSW,May,2017,Tuesday,12:15,Multiple vehicle,1,No,No,No,70,Inner Regional Australia,Sydney - Baulkham Hills and Hawkesbury,Hawkesbury,Sub-Arterial Road,No,No
+20171184,NSW,May,2017,Saturday,12:15,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Central Coast,Central Coast,Local Road,No,No
+20171191,NSW,May,2017,Saturday,17:40,Pedestrian,1,No,No,No,50,Outer Regional Australia,New England and North West,Gunnedah,National Or State Highway,No,No
+20171194,NSW,May,2017,Saturday,14:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Capital Region,Snowy Monaro Regional,National Or State Highway,No,No
+20171198,NSW,May,2017,Sunday,00:35,Pedestrian,1,Yes,No,No,80,Major Cities of Australia,Sydney - North Sydney and Hornsby,North Sydney,National Or State Highway,No,No
+20171205,NSW,May,2017,Saturday,14:20,Single vehicle,1,No,No,No,100,Outer Regional Australia,Riverina,Leeton,Sub-Arterial Road,No,No
+20171217,NSW,May,2017,Sunday,12:00,Single vehicle,1,No,No,No,60,Inner Regional Australia,Illawarra,Kiama,Arterial Road,No,No
+20171268,NSW,May,2017,Sunday,05:50,Pedestrian,1,No,No,No,100,Outer Regional Australia,Central West,Forbes,Arterial Road,No,No
+20171293,NSW,May,2017,Friday,07:30,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Hunter Valley exc Newcastle,Upper Hunter,National Or State Highway,No,No
+20171295,NSW,May,2017,Saturday,03:30,Multiple vehicle,2,No,No,Yes,110,Outer Regional Australia,Far West and Orana,Dubbo Regional,National Or State Highway,No,No
+20171296,NSW,May,2017,Monday,06:06,Multiple vehicle,3,No,No,Yes,110,Outer Regional Australia,New England and North West,Moree Plains,National Or State Highway,No,No
+20171300,NSW,May,2017,Tuesday,20:20,Pedestrian,1,No,No,No,60,Outer Regional Australia,Riverina,Griffith,Sub-Arterial Road,No,No
+20171301,NSW,May,2017,Sunday,22:20,Pedestrian,1,No,No,No,50,Inner Regional Australia,Central West,Orange,National Or State Highway,No,No
+20171305,NSW,May,2017,Wednesday,07:05,Multiple vehicle,1,No,Yes,No,100,Inner Regional Australia,Richmond - Tweed,Tweed,Arterial Road,No,No
+20171324,NSW,May,2017,Tuesday,13:30,Pedestrian,1,No,No,No,50,Major Cities of Australia,Sydney - Inner West,Inner West,Local Road,No,No
+20171342,NSW,May,2017,Tuesday,14:44,Multiple vehicle,1,No,No,No,90,Inner Regional Australia,Southern Highlands and Shoalhaven,Wingecarribee,Arterial Road,No,No
+20171343,NSW,May,2017,Thursday,10:05,Multiple vehicle,1,No,Yes,Yes,80,Major Cities of Australia,Sydney - Parramatta,Parramatta,National Or State Highway,No,No
+20171348,NSW,May,2017,Saturday,18:30,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Collector Road,No,No
+20171003,NSW,April,2017,Sunday,13:50,Multiple vehicle,1,No,No,Yes,80,Outer Regional Australia,Richmond - Tweed,Kyogle,Arterial Road,No,No
+20171006,NSW,April,2017,Tuesday,21:50,Single vehicle,1,No,No,No,50,Major Cities of Australia,Sydney - Sutherland,Sutherland,Local Road,No,No
+20171020,NSW,April,2017,Monday,19:30,Single vehicle,1,No,No,No,80,Inner Regional Australia,Richmond - Tweed,Tweed,Sub-Arterial Road,No,Yes
+20171029,NSW,April,2017,Thursday,06:03,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Hunter Valley exc Newcastle,Port Stephens,Local Road,No,Yes
+20171036,NSW,April,2017,Tuesday,10:15,Single vehicle,1,No,No,No,110,Inner Regional Australia,Capital Region,Goulburn Mulwaree,National Or State Highway,No,No
+20171049,NSW,April,2017,Wednesday,13:30,Multiple vehicle,1,No,Yes,No,80,Major Cities of Australia,Sydney - Inner West,Strathfield,National Or State Highway,No,No
+20171051,NSW,April,2017,Monday,13:30,Single vehicle,3,No,No,No,60,Major Cities of Australia,Richmond - Tweed,Tweed,Arterial Road,No,No
+20171072,NSW,April,2017,Wednesday,12:50,Single vehicle,1,No,No,No,100,Outer Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Arterial Road,No,No
+20171096,NSW,April,2017,Saturday,15:40,Single vehicle,1,No,No,No,100,Inner Regional Australia,Hunter Valley exc Newcastle,Muswellbrook,Sub-Arterial Road,No,No
+20171106,NSW,April,2017,Wednesday,17:10,Single vehicle,1,No,No,No,100,Outer Regional Australia,Central West,Parkes,Arterial Road,No,No
+20171107,NSW,April,2017,Wednesday,07:30,Multiple vehicle,1,No,Yes,No,60,Major Cities of Australia,Sydney - Northern Beaches,Northern Beaches,Arterial Road,No,No
+20171118,NSW,April,2017,Thursday,15:50,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Capital Region,Eurobodalla,National Or State Highway,No,No
+20171131,NSW,April,2017,Wednesday,12:10,Single vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Liverpool Plains,National Or State Highway,No,No
+20171160,NSW,April,2017,Thursday,21:30,Single vehicle,1,No,No,No,100,Inner Regional Australia,Murray,Greater Hume,Arterial Road,No,Yes
+20171166,NSW,April,2017,Wednesday,07:15,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Inverell,Sub-Arterial Road,No,No
+20171196,NSW,April,2017,Tuesday,19:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Local Road,No,No
+20171203,NSW,April,2017,Sunday,00:01,Single vehicle,1,No,No,No,50,Inner Regional Australia,Murray,Albury,Local Road,No,No
+20171210,NSW,April,2017,Tuesday,11:43,Multiple vehicle,2,No,No,Yes,90,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,National Or State Highway,No,No
+20171245,NSW,April,2017,Tuesday,10:15,Multiple vehicle,1,No,No,Yes,100,Outer Regional Australia,Riverina,Narrandera,National Or State Highway,No,No
+20171247,NSW,April,2017,Saturday,18:35,Pedestrian,1,No,No,No,50,Major Cities of Australia,Sydney - Inner South West,Bayside,Local Road,No,Yes
+20171251,NSW,April,2017,Saturday,18:15,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - City and Inner South,Bayside,Local Road,No,No
+20171259,NSW,April,2017,Sunday,11:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Tenterfield,National Or State Highway,No,No
+20171260,NSW,April,2017,Wednesday,15:38,Pedestrian,1,No,Yes,No,40,Major Cities of Australia,Central Coast,Central Coast,Collector Road,No,No
+20171270,NSW,April,2017,Wednesday,11:18,Pedestrian,1,Yes,No,No,50,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Local Road,No,No
+20171271,NSW,April,2017,Saturday,15:40,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Capital Region,Goulburn Mulwaree,Arterial Road,No,No
+20171272,NSW,April,2017,Saturday,14:50,Single vehicle,1,No,No,No,110,Very Remote Australia,Far West and Orana,Cobar,Sub-Arterial Road,No,Yes
+20171315,NSW,April,2017,Saturday,09:20,Single vehicle,1,No,No,No,80,Outer Regional Australia,Hunter Valley exc Newcastle,Singleton,Arterial Road,No,No
+20171330,NSW,April,2017,Thursday,08:06,Single vehicle,1,No,No,No,60,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,Sub-Arterial Road,No,No
+20171011,NSW,March,2017,Sunday,07:50,Pedestrian,1,No,No,No,40,Major Cities of Australia,Sydney - South West,Fairfield,Collector Road,No,No
+20171042,NSW,March,2017,Saturday,13:15,Single vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Narrabri,National Or State Highway,No,No
+20171057,NSW,March,2017,Tuesday,07:45,Multiple vehicle,2,No,No,No,110,Inner Regional Australia,Sydney - Outer South West,Wollondilly,National Or State Highway,No,No
+20171058,NSW,March,2017,Friday,07:58,Multiple vehicle,1,Yes,No,No,80,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Hawkesbury,Collector Road,No,No
+20171062,NSW,March,2017,Wednesday,14:00,Multiple vehicle,1,No,No,No,70,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,Sub-Arterial Road,No,No
+20171066,NSW,March,2017,Saturday,14:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Mid North Coast,Port Macquarie-Hastings,National Or State Highway,No,No
+20171068,NSW,March,2017,Wednesday,21:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Hunter Valley exc Newcastle,Cessnock,Sub-Arterial Road,No,No
+20171103,NSW,March,2017,Monday,16:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Capital Region,Upper Lachlan,Arterial Road,No,No
+20171115,NSW,March,2017,Wednesday,20:10,Multiple vehicle,1,No,No,Yes,100,Inner Regional Australia,Capital Region,Yass Valley,Arterial Road,No,No
+20171142,NSW,March,2017,Thursday,07:39,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Hunter Valley exc Newcastle,Singleton,National Or State Highway,No,No
+20171154,NSW,March,2017,Friday,05:20,Multiple vehicle,2,No,No,Yes,100,Inner Regional Australia,Sydney - Outer South West,Wollondilly,Arterial Road,No,No
+20171164,NSW,March,2017,Tuesday,16:00,Pedestrian,1,No,No,No,50,Inner Regional Australia,Riverina,Cootamundra-Gundagai,Local Road,No,No
+20171175,NSW,March,2017,Monday,03:50,Multiple vehicle,1,No,Yes,No,60,Major Cities of Australia,Sydney - Blacktown,Blacktown,Local Road,No,No
+20171177,NSW,March,2017,Wednesday,13:03,Single vehicle,1,No,No,No,60,Inner Regional Australia,Central West,Bathurst Regional,Local Road,No,No
+20171188,NSW,March,2017,Thursday,17:20,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Sydney - Eastern Suburbs,Randwick,Local Road,No,No
+20171201,NSW,March,2017,Friday,08:30,Single vehicle,1,No,No,No,100,Inner Regional Australia,Central West,Blayney,Arterial Road,No,No
+20171209,NSW,March,2017,Saturday,22:25,Single vehicle,2,No,No,No,70,Major Cities of Australia,Sydney - City and Inner South,Randwick,Arterial Road,No,No
+20171225,NSW,March,2017,Friday,15:15,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,New England and North West,Tamworth Regional,National Or State Highway,No,No
+20171229,NSW,March,2017,Monday,20:25,Single vehicle,1,No,No,No,100,Inner Regional Australia,Capital Region,Snowy Monaro Regional,National Or State Highway,No,No
+20171239,NSW,March,2017,Thursday,11:50,Multiple vehicle,1,No,No,Yes,100,Inner Regional Australia,Central West,Cabonne,Arterial Road,No,No
+20171250,NSW,March,2017,Sunday,08:05,Pedestrian,1,No,No,No,50,Inner Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Local Road,No,No
+20171255,NSW,March,2017,Wednesday,11:00,Pedestrian,1,No,No,No,50,Major Cities of Australia,Sydney - South West,Liverpool,Local Road,No,No
+20171286,NSW,March,2017,Thursday,17:30,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Hunter Valley exc Newcastle,Port Stephens,Arterial Road,No,No
+20171318,NSW,March,2017,Saturday,10:30,Single vehicle,1,No,No,No,100,Inner Regional Australia,Central West,Bathurst Regional,National Or State Highway,No,No
+20171323,NSW,March,2017,Wednesday,07:30,Single vehicle,1,No,No,No,100,Inner Regional Australia,Mid North Coast,Mid-Coast,Arterial Road,No,No
+20171055,NSW,February,2017,Wednesday,07:45,Single vehicle,1,No,No,No,80,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,Sub-Arterial Road,No,No
+20171060,NSW,February,2017,Wednesday,15:50,Multiple vehicle,1,No,No,Yes,80,Major Cities of Australia,Illawarra,Wollongong,Arterial Road,No,No
+20171070,NSW,February,2017,Thursday,21:10,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - South West,Fairfield,Arterial Road,No,No
+20171071,NSW,February,2017,Friday,17:44,Single vehicle,1,No,No,No,80,Inner Regional Australia,Newcastle and Lake Macquarie,Lake Macquarie,Access Road,No,No
+20171105,NSW,February,2017,Friday,02:00,Multiple vehicle,1,No,No,Yes,80,Outer Regional Australia,Mid North Coast,Nambucca,National Or State Highway,No,No
+20171117,NSW,February,2017,Saturday,04:25,Multiple vehicle,1,No,No,Yes,110,Inner Regional Australia,Southern Highlands and Shoalhaven,Wingecarribee,National Or State Highway,No,No
+20171124,NSW,February,2017,Saturday,20:30,Single vehicle,1,No,No,No,100,Outer Regional Australia,Far West and Orana,Warrumbungle,Arterial Road,No,No
+20171162,NSW,February,2017,Wednesday,21:50,Multiple vehicle,1,No,No,Yes,110,Inner Regional Australia,Sydney - North Sydney and Hornsby,Hornsby,National Or State Highway,No,No
+20171169,NSW,February,2017,Sunday,16:15,Multiple vehicle,1,No,No,No,110,Inner Regional Australia,Mid North Coast,Mid-Coast,National Or State Highway,No,No
+20171183,NSW,February,2017,Friday,12:50,Pedestrian,1,No,Yes,No,50,Major Cities of Australia,Sydney - City and Inner South,Sydney,Local Road,No,No
+20171208,NSW,February,2017,Thursday,18:20,Multiple vehicle,1,No,Yes,No,80,Outer Regional Australia,Coffs Harbour - Grafton,Bellingen,Access Road,No,No
+20171216,NSW,February,2017,Monday,14:50,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Sydney - City and Inner South,Inner West,Collector Road,No,No
+20171264,NSW,February,2017,Sunday,12:50,Single vehicle,1,No,No,No,60,Inner Regional Australia,Hunter Valley exc Newcastle,Cessnock,Arterial Road,No,No
+20171273,NSW,February,2017,Thursday,17:06,Single vehicle,1,No,No,No,100,Inner Regional Australia,Riverina,Snowy Valleys,Arterial Road,No,No
+20171290,NSW,February,2017,Thursday,13:00,Single vehicle,1,No,No,No,50,Inner Regional Australia,Mid North Coast,Mid-Coast,Local Road,No,No
+20171297,NSW,February,2017,Tuesday,09:48,Multiple vehicle,1,No,Yes,No,110,Outer Regional Australia,Far West and Orana,Narromine,National Or State Highway,No,No
+20171327,NSW,February,2017,Friday,08:26,Pedestrian,1,No,No,No,40,Major Cities of Australia,Sydney - North Sydney and Hornsby,Willoughby,Collector Road,No,No
+20171336,NSW,February,2017,Thursday,21:15,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Sydney - Inner South West,Canterbury-Bankstown,Arterial Road,No,No
+20171004,NSW,January,2017,Friday,18:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Far West and Orana,Dubbo Regional,Local Road,No,No
+20171005,NSW,January,2017,Saturday,17:25,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Sydney - South West,Liverpool,Local Road,No,No
+20171024,NSW,January,2017,Monday,14:28,Multiple vehicle,2,No,No,No,100,Inner Regional Australia,Hunter Valley exc Newcastle,Muswellbrook,National Or State Highway,No,No
+20171026,NSW,January,2017,Thursday,21:50,Single vehicle,1,No,No,No,100,Outer Regional Australia,Central West,Parkes,Arterial Road,No,No
+20171047,NSW,January,2017,Wednesday,21:30,Single vehicle,1,No,No,No,100,Outer Regional Australia,New England and North West,Tamworth Regional,Sub-Arterial Road,No,No
+20171050,NSW,January,2017,Tuesday,17:25,Multiple vehicle,1,No,No,No,90,Inner Regional Australia,Mid North Coast,Mid-Coast,Arterial Road,No,No
+20171101,NSW,January,2017,Monday,02:45,Pedestrian,1,No,Yes,No,60,Major Cities of Australia,Sydney - Inner South West,Canterbury-Bankstown,Arterial Road,No,No
+20171112,NSW,January,2017,Monday,12:05,Pedestrian,1,No,Yes,No,60,Major Cities of Australia,Sydney - Inner South West,Bayside,Arterial Road,No,No
+20171122,NSW,January,2017,Friday,21:30,Single vehicle,1,No,No,No,100,Inner Regional Australia,Hunter Valley exc Newcastle,Muswellbrook,Arterial Road,No,No
+20171125,NSW,January,2017,Tuesday,17:40,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Mid North Coast,Mid-Coast,Sub-Arterial Road,No,No
+20171136,NSW,January,2017,Friday,13:55,Multiple vehicle,1,No,No,Yes,90,Inner Regional Australia,Hunter Valley exc Newcastle,Singleton,National Or State Highway,No,No
+20171143,NSW,January,2017,Monday,13:30,Single vehicle,1,No,No,No,80,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Sub-Arterial Road,No,No
+20171170,NSW,January,2017,Monday,10:50,Single vehicle,1,No,No,No,70,Inner Regional Australia,Hunter Valley exc Newcastle,Port Stephens,Local Road,No,No
+20171172,NSW,January,2017,Tuesday,14:20,Multiple vehicle,1,No,No,No,100,Major Cities of Australia,Central Coast,Central Coast,Collector Road,No,No
+20171200,NSW,January,2017,Monday,18:10,Single vehicle,1,No,No,No,50,Inner Regional Australia,Coffs Harbour - Grafton,Coffs Harbour,Local Road,Yes,No
+20171204,NSW,January,2017,Sunday,22:25,Single vehicle,1,No,No,No,100,Inner Regional Australia,Riverina,Junee,Arterial Road,No,No
+20171230,NSW,January,2017,Friday,23:55,Single vehicle,1,No,No,No,100,Inner Regional Australia,Mid North Coast,Mid-Coast,National Or State Highway,No,No
+20171237,NSW,January,2017,Tuesday,14:15,Multiple vehicle,2,No,Yes,Yes,100,Outer Regional Australia,Riverina,Leeton,Arterial Road,Yes,No
+20171240,NSW,January,2017,Saturday,07:50,Single vehicle,1,No,Yes,No,70,Inner Regional Australia,Capital Region,Eurobodalla,Arterial Road,No,No
+20171254,NSW,January,2017,Monday,13:15,Multiple vehicle,1,No,No,No,80,Outer Regional Australia,Hunter Valley exc Newcastle,Singleton,Arterial Road,Yes,No
+20171265,NSW,January,2017,Wednesday,13:12,Multiple vehicle,3,No,No,No,60,Major Cities of Australia,Sydney - South West,Fairfield,Arterial Road,No,No
+20171266,NSW,January,2017,Sunday,22:00,Pedestrian,1,No,No,No,50,Major Cities of Australia,Sydney - Sutherland,Sutherland,Local Road,No,No
+20171279,NSW,January,2017,Wednesday,11:55,Multiple vehicle,1,Yes,No,Yes,100,Major Cities of Australia,Illawarra,Wollongong,National Or State Highway,No,No
+20171284,NSW,January,2017,Thursday,10:18,Pedestrian,1,No,No,Yes,60,Major Cities of Australia,Sydney - Blacktown,Blacktown,Collector Road,No,No
+20171304,NSW,January,2017,Saturday,12:58,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Capital Region,Eurobodalla,National Or State Highway,No,No
+20171351,NSW,January,2017,Friday,14:29,Single vehicle,1,No,No,No,50,Outer Regional Australia,Central West,Cabonne,Arterial Road,No,No
+20172002,VIC,December,2017,Monday,05:40,Single vehicle,1,No,No,No,100,Inner Regional Australia,Mornington Peninsula,Mornington Peninsula (S),Arterial Road,No,No
+20172019,VIC,December,2017,Friday,07:55,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Warrnambool and South West,Corangamite (S),Arterial Road,No,No
+20172029,VIC,December,2017,Sunday,09:27,Multiple vehicle,1,No,No,No,90,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Sub-Arterial Road,No,No
+20172034,VIC,December,2017,Friday,10:15,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Bendigo,Greater Bendigo (C),Sub-Arterial Road,No,No
+20172039,VIC,December,2017,Saturday,16:46,Multiple vehicle,1,No,No,Yes,100,Outer Regional Australia,North West,Northern Grampians (S),Sub-Arterial Road,Yes,No
+20172044,VIC,December,2017,Tuesday,11:15,Pedestrian,1,No,Yes,No,40,Major Cities of Australia,Melbourne - Inner South,Glen Eira (C),Sub-Arterial Road,No,No
+20172089,VIC,December,2017,Sunday,20:20,Single vehicle,1,No,No,No,60,Inner Regional Australia,Melbourne - North East,Whittlesea (C),Local Road,No,No
+20172090,VIC,December,2017,Wednesday,11:00,Multiple vehicle,2,No,No,No,100,Inner Regional Australia,Hume,Murrindindi (S),Sub-Arterial Road,Yes,No
+20172099,VIC,December,2017,Sunday,19:34,Multiple vehicle,3,No,No,No,70,Major Cities of Australia,Melbourne - West,Wyndham (C),Sub-Arterial Road,Yes,No
+20172115,VIC,December,2017,Thursday,12:19,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Bendigo,Greater Bendigo (C),Sub-Arterial Road,No,No
+20172119,VIC,December,2017,Friday,15:15,Pedestrian,1,Yes,No,No,60,Major Cities of Australia,Geelong,Greater Geelong (C),Collector Road,No,No
+20172130,VIC,December,2017,Thursday,11:00,Multiple vehicle,1,No,Yes,No,100,Inner Regional Australia,Geelong,Surf Coast (S),Sub-Arterial Road,No,No
+20172131,VIC,December,2017,Saturday,13:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Bendigo,Loddon (S),Local Road,Yes,No
+20172132,VIC,December,2017,Saturday,13:00,Pedestrian,1,No,No,No,100,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),Arterial Road,No,No
+20172137,VIC,December,2017,Tuesday,10:50,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Sub-Arterial Road,Yes,No
+20172144,VIC,December,2017,Thursday,16:44,Single vehicle,1,No,No,No,100,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),Local Road,Yes,No
+20172157,VIC,December,2017,Tuesday,09:40,Single vehicle,1,No,No,No,-9,Inner Regional Australia,Ballarat,Hepburn (S),Access Road,No,No
+20172164,VIC,December,2017,Wednesday,17:30,Single vehicle,1,No,No,No,100,Outer Regional Australia,Warrnambool and South West,Moyne (S),Sub-Arterial Road,No,No
+20172172,VIC,December,2017,Wednesday,17:25,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Melbourne - Outer East,Manningham (C),Arterial Road,No,No
+20172181,VIC,December,2017,Sunday,18:47,Single vehicle,1,No,No,No,100,Outer Regional Australia,North West,Yarriambiack (S),National Or State Highway,No,No
+20172188,VIC,December,2017,Monday,16:10,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Shepparton,Greater Shepparton (C),Arterial Road,No,No
+20172192,VIC,December,2017,Thursday,13:35,Pedestrian,1,No,No,No,70,Major Cities of Australia,Melbourne - South East,Monash (C),Arterial Road,No,No
+20172195,VIC,December,2017,Friday,11:35,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Melbourne - Outer East,Maroondah (C),Sub-Arterial Road,No,No
+20172197,VIC,December,2017,Thursday,00:25,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - North East,Darebin (C),Sub-Arterial Road,No,No
+20172224,VIC,December,2017,Thursday,17:10,Single vehicle,1,No,No,No,100,Inner Regional Australia,Hume,Mitchell (S),Sub-Arterial Road,No,No
+20172231,VIC,December,2017,Friday,07:46,Multiple vehicle,1,No,No,No,50,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Sub-Arterial Road,Yes,No
+20172003,VIC,November,2017,Wednesday,14:50,Multiple vehicle,1,No,No,Yes,100,Outer Regional Australia,Warrnambool and South West,Glenelg (S),Arterial Road,No,No
+20172010,VIC,November,2017,Wednesday,09:30,Multiple vehicle,1,No,Yes,No,50,Inner Regional Australia,Hume,Mitchell (S),Local Road,No,No
+20172012,VIC,November,2017,Friday,02:19,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Bendigo,Greater Bendigo (C),Arterial Road,No,No
+20172017,VIC,November,2017,Monday,17:00,Pedestrian,1,No,No,No,40,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No
+20172026,VIC,November,2017,Friday,16:45,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Warrnambool and South West,Corangamite (S),Local Road,No,No
+20172052,VIC,November,2017,Sunday,13:40,Multiple vehicle,2,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),Local Road,No,No
+20172056,VIC,November,2017,Saturday,09:30,Multiple vehicle,2,No,Yes,No,100,Inner Regional Australia,Ballarat,Pyrenees (S),National Or State Highway,No,No
+20172057,VIC,November,2017,Saturday,14:31,Single vehicle,1,No,No,No,-9,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),Local Road,No,No
+20172063,VIC,November,2017,Wednesday,19:39,Multiple vehicle,1,No,Yes,No,100,Inner Regional Australia,Shepparton,Moira (S),National Or State Highway,No,No
+20172068,VIC,November,2017,Thursday,12:43,Pedestrian,1,No,No,No,-9,Major Cities of Australia,Melbourne - West,Hobsons Bay (C),Collector Road,No,No
+20172071,VIC,November,2017,Monday,08:04,Multiple vehicle,1,No,Yes,No,50,Major Cities of Australia,Melbourne - Inner,Darebin (C),Sub-Arterial Road,No,No
+20172075,VIC,November,2017,Sunday,17:55,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Hume,Towong (S),National Or State Highway,No,No
+20172085,VIC,November,2017,Saturday,22:20,Single vehicle,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),Sub-Arterial Road,No,No
+20172096,VIC,November,2017,Thursday,02:22,Single vehicle,1,No,No,No,80,Major Cities of Australia,Melbourne - South East,Monash (C),National Or State Highway,No,No
+20172111,VIC,November,2017,Saturday,01:51,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - South East,Monash (C),Arterial Road,No,No
+20172117,VIC,November,2017,Friday,15:00,Multiple vehicle,1,No,Yes,No,70,Major Cities of Australia,Melbourne - Inner South,Kingston (C) (Vic.),Arterial Road,No,No
+20172136,VIC,November,2017,Sunday,01:00,Pedestrian,1,No,No,No,80,Outer Regional Australia,Hume,Mansfield (S),Arterial Road,No,No
+20172140,VIC,November,2017,Sunday,14:30,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),National Or State Highway,No,No
+20172161,VIC,November,2017,Wednesday,21:00,Pedestrian,1,No,No,No,70,Major Cities of Australia,Mornington Peninsula,Frankston (C),Sub-Arterial Road,No,No
+20172162,VIC,November,2017,Sunday,09:15,Single vehicle,1,No,No,No,100,Inner Regional Australia,Bendigo,Mount Alexander (S),National Or State Highway,No,No
+20172168,VIC,November,2017,Saturday,14:20,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Geelong,Greater Geelong (C),Collector Road,No,No
+20172190,VIC,November,2017,Monday,13:15,Single vehicle,1,No,No,No,100,Inner Regional Australia,Hume,Mitchell (S),Arterial Road,No,No
+20172204,VIC,November,2017,Friday,01:00,Single vehicle,1,No,No,No,50,Major Cities of Australia,Melbourne - Inner South,Stonnington (C),Collector Road,No,No
+20172208,VIC,November,2017,Sunday,02:15,Single vehicle,1,No,No,No,80,Inner Regional Australia,Hume,Strathbogie (S),Local Road,No,No
+20172210,VIC,November,2017,Monday,12:17,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Ballarat,Ballarat (C),National Or State Highway,No,No
+20172213,VIC,November,2017,Saturday,02:00,Single vehicle,3,No,No,No,100,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),Local Road,No,No
+20172219,VIC,November,2017,Wednesday,16:15,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Melbourne - Outer East,Whitehorse (C),Local Road,No,No
+20172220,VIC,November,2017,Thursday,12:07,Single vehicle,1,No,No,Yes,100,Outer Regional Australia,North West,Ararat (RC),Arterial Road,No,No
+20172001,VIC,October,2017,Wednesday,16:48,Pedestrian,1,No,No,No,40,Major Cities of Australia,Melbourne - Inner,Melbourne (C),Collector Road,No,No
+20172018,VIC,October,2017,Saturday,15:09,Single vehicle,2,Yes,No,No,100,Inner Regional Australia,Ballarat,Pyrenees (S),National Or State Highway,No,No
+20172045,VIC,October,2017,Sunday,01:05,Single vehicle,1,No,No,No,60,Major Cities of Australia,Mornington Peninsula,Frankston (C),Local Road,No,No
+20172053,VIC,October,2017,Monday,17:08,Multiple vehicle,1,No,No,Yes,80,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Local Road,No,No
+20172058,VIC,October,2017,Saturday,08:56,Pedestrian,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner East,Whitehorse (C),Arterial Road,No,No
+20172067,VIC,October,2017,Sunday,13:14,Single vehicle,1,No,No,No,110,Inner Regional Australia,Hume,Strathbogie (S),National Or State Highway,No,No
+20172092,VIC,October,2017,Monday,23:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner South,Monash (C),Local Road,No,No
+20172095,VIC,October,2017,Tuesday,21:02,Multiple vehicle,1,No,No,No,40,Major Cities of Australia,Melbourne - Inner,Moonee Valley (C),Sub-Arterial Road,No,No
+20172101,VIC,October,2017,Tuesday,15:50,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - South East,Monash (C),Arterial Road,No,No
+20172134,VIC,October,2017,Friday,03:39,Single vehicle,1,No,No,No,80,Inner Regional Australia,Hume,Wodonga (C),National Or State Highway,No,No
+20172207,VIC,October,2017,Wednesday,20:30,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Geelong,Surf Coast (S),Local Road,No,No
+20172031,VIC,September,2017,Saturday,08:05,Multiple vehicle,2,No,No,No,100,Inner Regional Australia,Shepparton,Campaspe (S),Local Road,No,No
+20172040,VIC,September,2017,Friday,10:40,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Shepparton,Greater Shepparton (C),Arterial Road,No,No
+20172061,VIC,September,2017,Sunday,13:30,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner East,Manningham (C),Arterial Road,No,No
+20172066,VIC,September,2017,Sunday,14:08,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Bass Coast (S),National Or State Highway,No,No
+20172088,VIC,September,2017,Wednesday,11:18,Single vehicle,1,No,No,No,100,Inner Regional Australia,Geelong,Golden Plains (S),National Or State Highway,No,No
+20172094,VIC,September,2017,Saturday,19:20,Single vehicle,1,No,No,No,100,Outer Regional Australia,Warrnambool and South West,Corangamite (S),Arterial Road,No,No
+20172103,VIC,September,2017,Monday,17:50,Multiple vehicle,1,No,No,Yes,100,Inner Regional Australia,Warrnambool and South West,Colac-Otway (S),National Or State Highway,No,No
+20172126,VIC,September,2017,Sunday,16:45,Multiple vehicle,2,No,No,No,80,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),National Or State Highway,No,No
+20172135,VIC,September,2017,Monday,16:45,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Hume,Mitchell (S),National Or State Highway,No,No
+20172148,VIC,September,2017,Sunday,16:40,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),Arterial Road,No,No
+20172160,VIC,September,2017,Wednesday,07:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Shepparton,Campaspe (S),Collector Road,No,No
+20172189,VIC,September,2017,Sunday,04:30,Single vehicle,1,No,No,No,50,Major Cities of Australia,Melbourne - West,Melton (C),Local Road,No,No
+20172206,VIC,September,2017,Thursday,16:40,Pedestrian,1,Yes,No,No,60,Major Cities of Australia,Melbourne - Inner South,Kingston (C) (Vic.),Arterial Road,No,No
+20172211,VIC,September,2017,Tuesday,14:20,Multiple vehicle,1,No,Yes,Yes,110,Inner Regional Australia,Ballarat,Moorabool (S),National Or State Highway,No,No
+20172217,VIC,September,2017,Friday,19:42,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Melbourne - West,Moorabool (S),Local Road,No,No
+20172230,VIC,September,2017,Sunday,12:50,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Melbourne - South East,Casey (C),National Or State Highway,No,No
+20172008,VIC,August,2017,Tuesday,06:01,Multiple vehicle,1,No,No,Yes,60,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Arterial Road,No,No
+20172023,VIC,August,2017,Thursday,15:05,Single vehicle,1,No,No,No,100,Inner Regional Australia,Hume,Indigo (S),Sub-Arterial Road,No,No
+20172028,VIC,August,2017,Sunday,13:20,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Melbourne - South East,Cardinia (S),Local Road,No,No
+20172043,VIC,August,2017,Friday,06:25,Single vehicle,1,No,No,No,100,Outer Regional Australia,Shepparton,Moira (S),Sub-Arterial Road,No,No
+20172054,VIC,August,2017,Wednesday,12:15,Multiple vehicle,1,No,No,Yes,100,Inner Regional Australia,Shepparton,Moira (S),Sub-Arterial Road,No,No
+20172065,VIC,August,2017,Sunday,05:10,Single vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Sub-Arterial Road,No,No
+20172072,VIC,August,2017,Wednesday,10:20,Multiple vehicle,1,No,No,Yes,110,Inner Regional Australia,Hume,Benalla (RC),National Or State Highway,No,No
+20172082,VIC,August,2017,Saturday,20:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),Arterial Road,No,No
+20172122,VIC,August,2017,Sunday,09:45,Single vehicle,1,Yes,No,No,60,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No
+20172125,VIC,August,2017,Tuesday,18:15,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Warrnambool and South West,Southern Grampians (S),National Or State Highway,No,No
+20172127,VIC,August,2017,Saturday,15:40,Single vehicle,1,No,No,No,60,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Arterial Road,No,No
+20172150,VIC,August,2017,Wednesday,19:18,Multiple vehicle,2,No,No,No,100,Major Cities of Australia,Melbourne - South East,Casey (C),National Or State Highway,No,No
+20172151,VIC,August,2017,Sunday,00:28,Single vehicle,3,No,No,No,100,Outer Regional Australia,North West,Gannawarra (S),Arterial Road,No,No
+20172154,VIC,August,2017,Monday,00:25,Pedestrian,1,No,No,No,60,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Sub-Arterial Road,No,No
+20172158,VIC,August,2017,Sunday,17:40,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),National Or State Highway,No,No
+20172163,VIC,August,2017,Friday,15:50,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Arterial Road,No,No
+20172169,VIC,August,2017,Friday,01:00,Single vehicle,2,No,No,No,50,Inner Regional Australia,Ballarat,Ballarat (C),Local Road,No,No
+20172170,VIC,August,2017,Tuesday,18:25,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - North East,Whittlesea (C),Sub-Arterial Road,No,No
+20172175,VIC,August,2017,Friday,05:30,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner South,Kingston (C) (Vic.),Collector Road,No,No
+20172209,VIC,August,2017,Friday,18:30,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - North East,Darebin (C),Sub-Arterial Road,No,No
+20172229,VIC,August,2017,Thursday,21:40,Pedestrian,1,No,No,No,100,Inner Regional Australia,Shepparton,Moira (S),National Or State Highway,No,No
+20172238,VIC,August,2017,Wednesday,11:20,Single vehicle,1,No,No,No,100,Inner Regional Australia,Bendigo,Mount Alexander (S),Sub-Arterial Road,No,No
+20172004,VIC,July,2017,Monday,10:00,Single vehicle,1,No,No,No,40,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Local Road,No,No
+20172013,VIC,July,2017,Saturday,15:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),National Or State Highway,No,No
+20172024,VIC,July,2017,Thursday,14:45,Multiple vehicle,1,No,Yes,Yes,100,Major Cities of Australia,Melbourne - North West,Hume (C),National Or State Highway,No,No
+20172038,VIC,July,2017,Friday,22:44,Pedestrian,1,No,No,No,60,Major Cities of Australia,Melbourne - North East,Banyule (C),Arterial Road,No,No
+20172069,VIC,July,2017,Friday,20:05,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Melbourne - Inner South,Bayside (C),National Or State Highway,No,No
+20172091,VIC,July,2017,Friday,20:53,Multiple vehicle,1,Yes,No,No,60,Major Cities of Australia,Melbourne - North East,Whittlesea (C),Arterial Road,No,No
+20172097,VIC,July,2017,Sunday,13:05,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Melbourne - South East,Cardinia (S),Local Road,No,No
+20172124,VIC,July,2017,Tuesday,17:39,Pedestrian,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner South,Kingston (C) (Vic.),Arterial Road,No,No
+20172128,VIC,July,2017,Tuesday,19:25,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Arterial Road,No,No
+20172141,VIC,July,2017,Thursday,06:45,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Melbourne (C),Arterial Road,No,No
+20172143,VIC,July,2017,Sunday,16:25,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Bass Coast (S),Collector Road,No,No
+20172146,VIC,July,2017,Tuesday,15:35,Single vehicle,1,No,No,No,100,Inner Regional Australia,Shepparton,Moira (S),National Or State Highway,No,No
+20172152,VIC,July,2017,Monday,17:10,Multiple vehicle,1,No,Yes,No,100,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Arterial Road,No,No
+20172155,VIC,July,2017,Sunday,07:18,Single vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No
+20172171,VIC,July,2017,Thursday,07:26,Multiple vehicle,1,No,Yes,No,100,Inner Regional Australia,Geelong,Greater Geelong (C),Arterial Road,No,No
+20172186,VIC,July,2017,Sunday,19:10,Pedestrian,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Yarra (C),Local Road,No,No
+20172221,VIC,July,2017,Friday,22:30,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Hume,Mansfield (S),National Or State Highway,No,No
+20172225,VIC,July,2017,Monday,09:55,Multiple vehicle,1,No,Yes,No,50,Major Cities of Australia,Melbourne - Inner South,Bayside (C),Arterial Road,No,No
+20172226,VIC,July,2017,Thursday,21:42,Single vehicle,1,No,No,No,60,Major Cities of Australia,Mornington Peninsula,Frankston (C),National Or State Highway,No,No
+20172228,VIC,July,2017,Friday,06:40,Pedestrian,1,No,No,No,50,Major Cities of Australia,Melbourne - Inner East,Boroondara (C),Local Road,No,No
+20172240,VIC,July,2017,Saturday,01:20,Single vehicle,1,No,No,No,100,Inner Regional Australia,Shepparton,Campaspe (S),Sub-Arterial Road,No,No
+20172005,VIC,June,2017,Wednesday,10:30,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Shepparton,Greater Shepparton (C),Sub-Arterial Road,No,No
+20172009,VIC,June,2017,Tuesday,15:35,Multiple vehicle,3,Yes,No,No,100,Inner Regional Australia,Shepparton,Greater Shepparton (C),Sub-Arterial Road,No,No
+20172015,VIC,June,2017,Saturday,21:15,Pedestrian,1,No,No,No,80,Major Cities of Australia,Melbourne - South East,Casey (C),Local Road,No,No
+20172020,VIC,June,2017,Thursday,17:10,Single vehicle,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Baw Baw (S),Arterial Road,No,No
+20172027,VIC,June,2017,Sunday,11:00,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Collector Road,No,No
+20172033,VIC,June,2017,Thursday,15:10,Single vehicle,1,No,No,No,110,Inner Regional Australia,Hume,Strathbogie (S),National Or State Highway,No,No
+20172050,VIC,June,2017,Wednesday,07:51,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Sub-Arterial Road,No,No
+20172060,VIC,June,2017,Sunday,23:03,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Darebin (C),Local Road,No,No
+20172147,VIC,June,2017,Wednesday,13:50,Pedestrian,1,No,No,No,50,Major Cities of Australia,Melbourne - Inner South,Bayside (C),Arterial Road,No,No
+20172174,VIC,June,2017,Sunday,17:30,Pedestrian,1,No,No,No,80,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),National Or State Highway,No,No
+20172212,VIC,June,2017,Friday,14:19,Pedestrian,1,No,No,Yes,50,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Arterial Road,No,No
+20172233,VIC,June,2017,Friday,16:10,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Shepparton,Moira (S),Local Road,No,No
+20172235,VIC,June,2017,Friday,17:10,Single vehicle,1,No,No,No,80,Inner Regional Australia,Melbourne - North East,Murrindindi (S),Arterial Road,No,No
+20172021,VIC,May,2017,Thursday,07:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Port Phillip (C),Arterial Road,No,No
+20172025,VIC,May,2017,Monday,13:57,Single vehicle,1,No,No,No,60,Inner Regional Australia,Ballarat,Ballarat (C),Collector Road,No,No
+20172030,VIC,May,2017,Monday,10:33,Multiple vehicle,1,No,No,No,60,Outer Regional Australia,North West,Mildura (RC),Local Road,No,No
+20172035,VIC,May,2017,Monday,18:15,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Ballarat,Moorabool (S),Arterial Road,No,No
+20172041,VIC,May,2017,Sunday,18:20,Single vehicle,1,No,No,No,100,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula (S),Arterial Road,No,No
+20172051,VIC,May,2017,Tuesday,09:50,Single vehicle,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),National Or State Highway,No,No
+20172073,VIC,May,2017,Friday,23:45,Single vehicle,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Arterial Road,No,No
+20172079,VIC,May,2017,Friday,13:20,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges (S),Local Road,No,No
+20172080,VIC,May,2017,Thursday,15:20,Multiple vehicle,1,No,No,No,40,Major Cities of Australia,Melbourne - North East,Banyule (C),Sub-Arterial Road,No,No
+20172105,VIC,May,2017,Wednesday,22:00,Single vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - South East,Cardinia (S),Arterial Road,No,No
+20172120,VIC,May,2017,Friday,01:50,Single vehicle,1,No,No,No,70,Major Cities of Australia,Melbourne - West,Brimbank (C),Arterial Road,No,No
+20172123,VIC,May,2017,Wednesday,15:00,Single vehicle,1,No,No,No,-9,Inner Regional Australia,Ballarat,Moorabool (S),Local Road,No,No
+20172138,VIC,May,2017,Monday,14:09,Single vehicle,1,No,No,No,100,Inner Regional Australia,Ballarat,Central Goldfields (S),Arterial Road,No,No
+20172182,VIC,May,2017,Sunday,16:05,Multiple vehicle,2,No,No,No,110,Inner Regional Australia,Hume,Benalla (RC),Local Road,No,No
+20172202,VIC,May,2017,Monday,08:45,Single vehicle,1,No,Yes,No,100,Inner Regional Australia,Latrobe - Gippsland,Baw Baw (S),Arterial Road,No,No
+20172203,VIC,May,2017,Sunday,11:20,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Geelong,Greater Geelong (C),Collector Road,No,No
+20172214,VIC,May,2017,Saturday,15:37,Single vehicle,1,No,No,No,80,Major Cities of Australia,Melbourne - South East,Casey (C),Sub-Arterial Road,No,No
+20172227,VIC,May,2017,Monday,17:55,Pedestrian,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner East,Whitehorse (C),Arterial Road,No,No
+20172232,VIC,May,2017,Friday,11:36,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - North East,Banyule (C),Sub-Arterial Road,No,No
+20172236,VIC,May,2017,Tuesday,06:30,Single vehicle,1,No,No,No,80,Outer Regional Australia,Warrnambool and South West,Glenelg (S),Sub-Arterial Road,No,No
+20172007,VIC,April,2017,Monday,23:35,Single vehicle,1,No,No,No,110,Inner Regional Australia,Melbourne - North East,Mitchell (S),National Or State Highway,No,No
+20172042,VIC,April,2017,Saturday,16:45,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Melbourne - South East,Cardinia (S),National Or State Highway,No,Yes
+20172046,VIC,April,2017,Wednesday,17:15,Single vehicle,1,No,No,No,100,Inner Regional Australia,Hume,Wangaratta (RC),Arterial Road,No,No
+20172047,VIC,April,2017,Friday,18:15,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Mornington Peninsula,Frankston (C),Local Road,No,No
+20172049,VIC,April,2017,Friday,17:38,Pedestrian,1,No,Yes,No,60,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),National Or State Highway,No,No
+20172070,VIC,April,2017,Sunday,14:30,Single vehicle,2,No,No,No,80,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges (S),Arterial Road,No,No
+20172077,VIC,April,2017,Friday,21:05,Pedestrian,1,No,No,No,50,Inner Regional Australia,Shepparton,Greater Shepparton (C),Local Road,No,No
+20172081,VIC,April,2017,Friday,14:00,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,North West,Buloke (S),National Or State Highway,No,No
+20172087,VIC,April,2017,Friday,13:45,Multiple vehicle,1,No,Yes,No,100,Inner Regional Australia,Bendigo,Greater Bendigo (C),National Or State Highway,No,No
+20172098,VIC,April,2017,Friday,19:30,Single vehicle,1,No,No,No,100,Inner Regional Australia,Hume,Murrindindi (S),National Or State Highway,No,No
+20172106,VIC,April,2017,Tuesday,11:00,Single vehicle,1,No,No,No,40,Major Cities of Australia,Melbourne - Inner,Melbourne (C),Local Road,No,No
+20172108,VIC,April,2017,Sunday,16:20,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Latrobe - Gippsland,Unincorporated Vic,Access Road,No,No
+20172109,VIC,April,2017,Friday,12:10,Pedestrian,1,No,No,No,60,Major Cities of Australia,Melbourne - South East,Casey (C),Sub-Arterial Road,No,No
+20172112,VIC,April,2017,Friday,13:45,Multiple vehicle,1,No,No,Yes,50,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Local Road,No,No
+20172116,VIC,April,2017,Tuesday,16:19,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Hume,Towong (S),Arterial Road,No,No
+20172118,VIC,April,2017,Wednesday,16:30,Multiple vehicle,2,No,No,No,100,Inner Regional Australia,Geelong,Golden Plains (S),Local Road,No,No
+20172142,VIC,April,2017,Thursday,02:44,Single vehicle,1,No,No,No,80,Inner Regional Australia,Hume,Wangaratta (RC),Local Road,No,Yes
+20172166,VIC,April,2017,Wednesday,14:45,Multiple vehicle,1,No,No,No,100,Remote Australia,Latrobe - Gippsland,East Gippsland (S),National Or State Highway,No,No
+20172176,VIC,April,2017,Tuesday,17:30,Pedestrian,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Port Phillip (C),Arterial Road,No,No
+20172177,VIC,April,2017,Thursday,02:20,Single vehicle,1,No,No,Yes,80,Inner Regional Australia,Geelong,Golden Plains (S),Local Road,No,No
+20172183,VIC,April,2017,Tuesday,18:34,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - West,Brimbank (C),Arterial Road,No,No
+20172185,VIC,April,2017,Tuesday,08:10,Single vehicle,1,No,No,No,80,Inner Regional Australia,Geelong,Greater Geelong (C),Local Road,No,No
+20172187,VIC,April,2017,Monday,17:00,Single vehicle,1,Yes,No,No,100,Outer Regional Australia,Warrnambool and South West,Colac-Otway (S),Arterial Road,No,No
+20172198,VIC,April,2017,Friday,08:50,Multiple vehicle,1,No,No,No,100,Major Cities of Australia,Melbourne - South East,Cardinia (S),National Or State Highway,No,Yes
+20172215,VIC,April,2017,Sunday,09:56,Multiple vehicle,1,No,No,No,70,Inner Regional Australia,Melbourne - South East,Cardinia (S),Arterial Road,No,No
+20172216,VIC,April,2017,Tuesday,07:30,Single vehicle,1,No,No,No,100,Inner Regional Australia,Hume,Murrindindi (S),National Or State Highway,No,No
+20172016,VIC,March,2017,Friday,17:42,Multiple vehicle,1,No,No,Yes,60,Major Cities of Australia,Melbourne - West,Maribyrnong (C),Arterial Road,No,No
+20172055,VIC,March,2017,Tuesday,11:10,Single vehicle,1,No,No,No,100,Outer Regional Australia,Hume,Wangaratta (RC),Access Road,No,No
+20172059,VIC,March,2017,Monday,23:55,Multiple vehicle,1,No,No,No,100,Major Cities of Australia,Melbourne - West,Brimbank (C),National Or State Highway,No,No
+20172064,VIC,March,2017,Thursday,06:58,Multiple vehicle,1,No,No,Yes,100,Outer Regional Australia,Warrnambool and South West,Southern Grampians (S),National Or State Highway,No,No
+20172076,VIC,March,2017,Friday,16:20,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Hume,Benalla (RC),Arterial Road,No,No
+20172078,VIC,March,2017,Tuesday,14:10,Single vehicle,1,No,No,No,100,Outer Regional Australia,Warrnambool and South West,Southern Grampians (S),Arterial Road,No,No
+20172083,VIC,March,2017,Saturday,02:00,Single vehicle,1,No,No,No,60,Inner Regional Australia,Melbourne - West,Moorabool (S),Arterial Road,No,No
+20172107,VIC,March,2017,Friday,06:30,Multiple vehicle,1,No,No,Yes,100,Major Cities of Australia,Melbourne - North West,Brimbank (C),National Or State Highway,No,No
+20172114,VIC,March,2017,Friday,03:28,Single vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - South East,Casey (C),Sub-Arterial Road,No,No
+20172121,VIC,March,2017,Saturday,11:35,Single vehicle,1,No,No,No,80,Outer Regional Australia,Latrobe - Gippsland,South Gippsland (S),Arterial Road,No,No
+20172139,VIC,March,2017,Friday,13:30,Pedestrian,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Melbourne (C),Sub-Arterial Road,No,No
+20172149,VIC,March,2017,Tuesday,08:14,Pedestrian,1,No,No,No,50,Major Cities of Australia,Melbourne - West,Melton (C),Local Road,No,No
+20172153,VIC,March,2017,Tuesday,02:30,Single vehicle,1,No,No,No,70,Major Cities of Australia,Melbourne - West,Melton (C),Arterial Road,No,No
+20172159,VIC,March,2017,Thursday,14:47,Multiple vehicle,1,No,Yes,No,80,Major Cities of Australia,Melbourne - West,Wyndham (C),National Or State Highway,No,No
+20172167,VIC,March,2017,Thursday,11:30,Single vehicle,1,No,No,No,100,Outer Regional Australia,North West,Buloke (S),Access Road,No,No
+20172180,VIC,March,2017,Sunday,00:25,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Geelong,Greater Geelong (C),Sub-Arterial Road,No,No
+20172191,VIC,March,2017,Sunday,01:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,North West,Horsham (RC),Sub-Arterial Road,No,No
+20172193,VIC,March,2017,Saturday,04:14,Single vehicle,1,No,No,No,80,Inner Regional Australia,Latrobe - Gippsland,Bass Coast (S),Arterial Road,No,No
+20172199,VIC,March,2017,Friday,00:30,Single vehicle,1,No,No,No,100,Outer Regional Australia,Warrnambool and South West,Glenelg (S),Arterial Road,No,No
+20172222,VIC,March,2017,Tuesday,16:25,Single vehicle,1,No,No,No,100,Inner Regional Australia,Ballarat,Pyrenees (S),National Or State Highway,No,No
+20172223,VIC,March,2017,Saturday,12:22,Single vehicle,1,No,No,No,-9,Major Cities of Australia,Melbourne - West,Wyndham (C),Collector Road,No,No
+20172237,VIC,March,2017,Friday,08:30,Multiple vehicle,1,No,No,Yes,100,Inner Regional Australia,Ballarat,Pyrenees (S),Arterial Road,No,No
+20172006,VIC,February,2017,Wednesday,10:55,Single vehicle,1,No,No,No,100,Inner Regional Australia,Hume,Benalla (RC),National Or State Highway,No,No
+20172011,VIC,February,2017,Thursday,21:32,Single vehicle,1,No,No,No,80,Major Cities of Australia,Melbourne - South East,Monash (C),Arterial Road,No,No
+20172014,VIC,February,2017,Monday,08:35,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Melbourne - South East,Casey (C),Collector Road,No,No
+20172037,VIC,February,2017,Thursday,11:30,Single vehicle,1,No,No,No,100,Outer Regional Australia,Warrnambool and South West,Moyne (S),Arterial Road,No,No
+20172074,VIC,February,2017,Monday,12:05,Multiple vehicle,1,No,No,No,110,Inner Regional Australia,Hume,Strathbogie (S),National Or State Highway,No,No
+20172084,VIC,February,2017,Thursday,07:40,Single vehicle,1,No,Yes,No,100,Outer Regional Australia,Latrobe - Gippsland,East Gippsland (S),Sub-Arterial Road,No,No
+20172093,VIC,February,2017,Sunday,14:45,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Melbourne - West,Moorabool (S),Arterial Road,No,No
+20172102,VIC,February,2017,Thursday,14:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Melbourne - North West,Macedon Ranges (S),Arterial Road,No,No
+20172104,VIC,February,2017,Friday,17:22,Multiple vehicle,1,No,Yes,No,80,Inner Regional Australia,Ballarat,Hepburn (S),National Or State Highway,No,No
+20172133,VIC,February,2017,Friday,22:44,Single vehicle,1,No,No,No,50,Major Cities of Australia,Melbourne - South East,Kingston (C) (Vic.),Local Road,No,No
+20172145,VIC,February,2017,Saturday,15:15,Single vehicle,1,No,No,No,100,Outer Regional Australia,North West,Northern Grampians (S),Local Road,No,No
+20172165,VIC,February,2017,Tuesday,14:45,Single vehicle,1,No,No,Yes,100,Inner Regional Australia,Latrobe - Gippsland,Wellington (S),National Or State Highway,No,No
+20172178,VIC,February,2017,Monday,15:36,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - South East,Greater Dandenong (C),Arterial Road,No,No
+20172184,VIC,February,2017,Friday,07:30,Single vehicle,1,No,No,No,100,Inner Regional Australia,Shepparton,Campaspe (S),Arterial Road,No,No
+20172194,VIC,February,2017,Monday,07:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Bendigo,Greater Bendigo (C),Sub-Arterial Road,No,No
+20172196,VIC,February,2017,Wednesday,18:44,Single vehicle,1,No,No,No,100,Major Cities of Australia,Melbourne - West,Melton (C),Collector Road,No,No
+20172200,VIC,February,2017,Friday,20:40,Single vehicle,1,No,No,No,100,Inner Regional Australia,Shepparton,Moira (S),Local Road,No,No
+20172201,VIC,February,2017,Wednesday,16:00,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Shepparton,Moira (S),Sub-Arterial Road,No,No
+20172022,VIC,January,2017,Thursday,08:55,Multiple vehicle,1,No,Yes,No,-9,Major Cities of Australia,Melbourne - Outer East,Knox (C),Arterial Road,No,No
+20172032,VIC,January,2017,Saturday,16:47,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner South,Bayside (C),Arterial Road,No,No
+20172036,VIC,January,2017,Tuesday,16:30,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - West,Wyndham (C),Arterial Road,No,No
+20172048,VIC,January,2017,Sunday,16:50,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Bendigo,Greater Bendigo (C),Arterial Road,No,No
+20172062,VIC,January,2017,Thursday,17:28,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),Local Road,No,No
+20172086,VIC,January,2017,Wednesday,03:50,Single vehicle,1,No,No,No,100,Inner Regional Australia,Geelong,Greater Geelong (C),Arterial Road,No,No
+20172100,VIC,January,2017,Monday,07:59,Pedestrian,1,No,No,No,60,Inner Regional Australia,Hume,Wangaratta (RC),Local Road,No,No
+20172110,VIC,January,2017,Sunday,16:50,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,South Gippsland (S),National Or State Highway,No,No
+20172113,VIC,January,2017,Friday,16:45,Single vehicle,1,No,No,No,100,Inner Regional Australia,Shepparton,Campaspe (S),Arterial Road,No,No
+20172129,VIC,January,2017,Saturday,00:35,Single vehicle,1,No,No,No,60,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges (S),Sub-Arterial Road,No,No
+20172156,VIC,January,2017,Monday,15:30,Single vehicle,1,No,No,No,50,Major Cities of Australia,Melbourne - Inner South,Bayside (C),Collector Road,No,No
+20172173,VIC,January,2017,Friday,17:00,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Ballarat,Golden Plains (S),National Or State Highway,No,No
+20172179,VIC,January,2017,Wednesday,18:50,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Shepparton,Greater Shepparton (C),National Or State Highway,No,No
+20172205,VIC,January,2017,Friday,03:50,Single vehicle,1,No,No,No,100,Inner Regional Australia,Ballarat,Golden Plains (S),National Or State Highway,No,No
+20172218,VIC,January,2017,Sunday,04:30,Pedestrian,1,No,No,No,100,Outer Regional Australia,North West,Swan Hill (RC),Sub-Arterial Road,No,No
+20172234,VIC,January,2017,Tuesday,16:00,Multiple vehicle,1,No,No,Yes,110,Inner Regional Australia,Latrobe - Gippsland,Latrobe (C) (Vic.),National Or State Highway,No,No
+20172239,VIC,January,2017,Wednesday,14:30,Multiple vehicle,1,No,No,Yes,100,Outer Regional Australia,North West,Swan Hill (RC),Local Road,No,No
+20173019,QLD,December,2017,Saturday,11:00,Multiple vehicle,2,No,No,No,80,Inner Regional Australia,Ipswich,Somerset (R),National Or State Highway,No,No
+20173036,QLD,December,2017,Thursday,16:00,Multiple vehicle,1,No,No,No,100,Major Cities of Australia,Moreton Bay - North,Moreton Bay (R),National Or State Highway,Yes,No
+20173045,QLD,December,2017,Thursday,20:00,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Logan - Beaudesert,Logan (C),Sub-Arterial Road,No,No
+20173046,QLD,December,2017,Tuesday,16:00,Multiple vehicle,1,No,Yes,No,100,Inner Regional Australia,Moreton Bay - North,Moreton Bay (R),Sub-Arterial Road,No,No
+20173054,QLD,December,2017,Wednesday,06:00,Single vehicle,1,No,No,No,50,Remote Australia,Townsville,Palm Island (S),Local Road,Yes,No
+20173055,QLD,December,2017,Saturday,13:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Ipswich,Lockyer Valley (R),Local Road,Yes,No
+20173060,QLD,December,2017,Friday,23:00,Pedestrian,1,No,No,No,90,Major Cities of Australia,Sunshine Coast,Sunshine Coast (R),Sub-Arterial Road,No,No
+20173061,QLD,December,2017,Thursday,10:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Logan - Beaudesert,Logan (C),Collector Road,No,No
+20173064,QLD,December,2017,Thursday,15:00,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Ipswich,Ipswich (C),Sub-Arterial Road,No,No
+20173069,QLD,December,2017,Friday,10:00,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Sunshine Coast,Sunshine Coast (R),Local Road,No,No
+20173080,QLD,December,2017,Sunday,15:00,Single vehicle,1,No,No,No,80,Outer Regional Australia,Wide Bay,North Burnett (R),Sub-Arterial Road,No,No
+20173082,QLD,December,2017,Wednesday,06:00,Single vehicle,1,No,No,No,70,Outer Regional Australia,Cairns,Cairns (R),Collector Road,Yes,No
+20173112,QLD,December,2017,Monday,11:00,Multiple vehicle,2,No,No,No,70,Major Cities of Australia,Brisbane - East,Brisbane (C),Sub-Arterial Road,Yes,No
+20173117,QLD,December,2017,Sunday,03:00,Single vehicle,1,No,No,No,50,Major Cities of Australia,Brisbane - East,Brisbane (C),Local Road,No,No
+20173126,QLD,December,2017,Thursday,23:00,Single vehicle,1,No,No,No,50,Major Cities of Australia,Brisbane Inner City,Brisbane (C),Collector Road,No,No
+20173137,QLD,December,2017,Sunday,13:00,Single vehicle,1,No,No,Yes,100,Very Remote Australia,Townsville,Charters Towers (R),National Or State Highway,No,No
+20173149,QLD,December,2017,Tuesday,13:00,Single vehicle,1,No,No,No,70,Major Cities of Australia,Brisbane - West,Brisbane (C),Sub-Arterial Road,No,No
+20173150,QLD,December,2017,Saturday,21:00,Single vehicle,1,No,No,No,70,Major Cities of Australia,Moreton Bay - South,Moreton Bay (R),Sub-Arterial Road,No,No
+20173159,QLD,December,2017,Saturday,13:00,Single vehicle,1,No,No,No,110,Remote Australia,Mackay - Isaac - Whitsunday,Isaac (R),National Or State Highway,No,No
+20173189,QLD,December,2017,Sunday,17:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Brisbane - East,Brisbane (C),Collector Road,No,No
+20173193,QLD,December,2017,Tuesday,04:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Isaac (R),Collector Road,No,No
+20173200,QLD,December,2017,Tuesday,16:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Isaac (R),National Or State Highway,No,No
+20173005,QLD,November,2017,Wednesday,07:00,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Brisbane - West,Brisbane (C),Collector Road,No,No
+20173020,QLD,November,2017,Friday,21:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Whitsunday (R),National Or State Highway,No,No
+20173024,QLD,November,2017,Friday,22:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Mackay (R),Local Road,No,No
+20173029,QLD,November,2017,Monday,02:00,Multiple vehicle,1,No,No,Yes,60,Major Cities of Australia,Ipswich,Brisbane (C),Local Road,No,No
+20173073,QLD,November,2017,Sunday,00:00,Single vehicle,1,No,No,No,50,Outer Regional Australia,Darling Downs - Maranoa,Toowoomba (R),Collector Road,No,No
+20173094,QLD,November,2017,Monday,19:00,Pedestrian,1,No,No,No,50,Inner Regional Australia,Wide Bay,Bundaberg (R),Local Road,No,No
+20173095,QLD,November,2017,Sunday,02:00,Pedestrian,1,No,No,No,60,Outer Regional Australia,Mackay - Isaac - Whitsunday,Whitsunday (R),Sub-Arterial Road,No,No
+20173101,QLD,November,2017,Wednesday,06:00,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Gold Coast,Gold Coast (C),Local Road,No,No
+20173152,QLD,November,2017,Tuesday,11:00,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,Toowoomba,Toowoomba (R),Collector Road,No,No
+20173161,QLD,November,2017,Monday,10:00,Multiple vehicle,1,No,No,Yes,100,Outer Regional Australia,Cairns,Cassowary Coast (R),National Or State Highway,No,No
+20173179,QLD,November,2017,Wednesday,20:00,Pedestrian,1,No,No,No,60,Major Cities of Australia,Gold Coast,Gold Coast (C),Collector Road,No,No
+20173195,QLD,November,2017,Monday,23:00,Pedestrian,1,No,No,No,60,Major Cities of Australia,Sunshine Coast,Sunshine Coast (R),National Or State Highway,No,No
+20173202,QLD,November,2017,Sunday,05:00,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Mackay (R),National Or State Highway,No,No
+20173210,QLD,November,2017,Friday,19:00,Multiple vehicle,1,No,No,No,80,Outer Regional Australia,Cairns,Tablelands (R),National Or State Highway,No,No
+20173013,QLD,October,2017,Sunday,09:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Isaac (R),National Or State Highway,No,No
+20173034,QLD,October,2017,Monday,11:00,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Moreton Bay - North,Moreton Bay (R),Local Road,No,No
+20173056,QLD,October,2017,Monday,11:00,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Central Queensland,Gladstone (R),Sub-Arterial Road,No,No
+20173066,QLD,October,2017,Monday,19:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Wide Bay,Gympie (R),Local Road,No,No
+20173072,QLD,October,2017,Friday,15:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Ipswich,Lockyer Valley (R),National Or State Highway,No,No
+20173078,QLD,October,2017,Wednesday,19:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Brisbane - South,Brisbane (C),Collector Road,No,No
+20173106,QLD,October,2017,Sunday,18:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Logan - Beaudesert,Logan (C),Sub-Arterial Road,No,No
+20173107,QLD,October,2017,Thursday,00:00,Single vehicle,1,No,No,No,80,Major Cities of Australia,Moreton Bay - South,Moreton Bay (R),Sub-Arterial Road,No,No
+20173110,QLD,October,2017,Saturday,20:00,Pedestrian,1,No,No,No,100,Inner Regional Australia,Wide Bay,Fraser Coast (R),Sub-Arterial Road,No,No
+20173116,QLD,October,2017,Tuesday,20:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Moreton Bay - North,Moreton Bay (R),Local Road,No,No
+20173119,QLD,October,2017,Sunday,11:00,Multiple vehicle,2,No,No,No,100,Inner Regional Australia,Wide Bay,Bundaberg (R),Sub-Arterial Road,No,No
+20173131,QLD,October,2017,Monday,18:00,Multiple vehicle,1,No,No,No,110,Major Cities of Australia,Gold Coast,Gold Coast (C),Sub-Arterial Road,No,No
+20173146,QLD,October,2017,Wednesday,19:00,Pedestrian,1,No,No,No,40,Major Cities of Australia,Brisbane Inner City,Brisbane (C),Local Road,No,No
+20173169,QLD,October,2017,Friday,13:00,Single vehicle,1,No,No,No,60,Inner Regional Australia,Moreton Bay - North,Moreton Bay (R),Sub-Arterial Road,No,No
+20173180,QLD,October,2017,Wednesday,14:00,Single vehicle,1,No,No,No,80,Major Cities of Australia,Moreton Bay - North,Moreton Bay (R),Local Road,No,No
+20173185,QLD,October,2017,Sunday,19:00,Single vehicle,1,No,No,No,80,Major Cities of Australia,Brisbane - South,Brisbane (C),National Or State Highway,No,No
+20173190,QLD,October,2017,Sunday,12:00,Single vehicle,1,No,No,No,110,Remote Australia,Mackay - Isaac - Whitsunday,Isaac (R),National Or State Highway,No,No
+20173198,QLD,October,2017,Wednesday,05:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Brisbane Inner City,Brisbane (C),Sub-Arterial Road,No,No
+20173217,QLD,October,2017,Thursday,08:00,Multiple vehicle,1,No,No,No,90,Outer Regional Australia,Mackay - Isaac - Whitsunday,Mackay (R),Sub-Arterial Road,No,No
+20173220,QLD,October,2017,Sunday,10:00,Pedestrian,1,No,No,No,40,Major Cities of Australia,Gold Coast,Gold Coast (C),Local Road,No,No
+20173227,QLD,October,2017,Sunday,18:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Whitsunday (R),National Or State Highway,No,No
+20173014,QLD,September,2017,Sunday,05:00,Single vehicle,1,No,No,No,80,Outer Regional Australia,Townsville,Townsville (C),National Or State Highway,No,No
+20173033,QLD,September,2017,Sunday,17:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Central Queensland,Rockhampton (R),Access Road,No,No
+20173038,QLD,September,2017,Monday,19:00,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba (R),Sub-Arterial Road,No,No
+20173039,QLD,September,2017,Saturday,22:00,Single vehicle,1,No,No,No,60,Major Cities of Australia,Brisbane Inner City,Brisbane (C),National Or State Highway,No,No
+20173059,QLD,September,2017,Sunday,17:00,Single vehicle,1,No,No,No,80,Outer Regional Australia,Cairns,Cassowary Coast (R),Collector Road,No,No
+20173065,QLD,September,2017,Saturday,12:00,Single vehicle,1,No,No,No,100,Very Remote Australia,Queensland - Outback,Cook (S),Sub-Arterial Road,No,No
+20173068,QLD,September,2017,Saturday,11:00,Pedestrian,1,No,No,No,70,Major Cities of Australia,Brisbane - South,Brisbane (C),Sub-Arterial Road,No,No
+20173077,QLD,September,2017,Tuesday,00:00,Single vehicle,1,No,No,Yes,100,Outer Regional Australia,Wide Bay,Bundaberg (R),National Or State Highway,No,No
+20173084,QLD,September,2017,Saturday,06:00,Single vehicle,1,No,No,No,80,Outer Regional Australia,Wide Bay,South Burnett (R),Local Road,No,No
+20173089,QLD,September,2017,Friday,06:00,Pedestrian,1,No,No,No,110,Major Cities of Australia,Gold Coast,Gold Coast (C),National Or State Highway,No,No
+20173090,QLD,September,2017,Friday,19:00,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Brisbane - South,Brisbane (C),Local Road,No,No
+20173092,QLD,September,2017,Wednesday,09:00,Single vehicle,1,No,No,No,100,Major Cities of Australia,Brisbane - South,Brisbane (C),Collector Road,No,No
+20173120,QLD,September,2017,Wednesday,16:00,Single vehicle,1,No,No,No,50,Major Cities of Australia,Moreton Bay - North,Moreton Bay (R),Local Road,No,No
+20173121,QLD,September,2017,Wednesday,08:00,Single vehicle,2,No,No,No,100,Outer Regional Australia,Wide Bay,Bundaberg (R),National Or State Highway,No,No
+20173123,QLD,September,2017,Tuesday,20:00,Pedestrian,1,No,No,No,60,Major Cities of Australia,Brisbane - South,Brisbane (C),Local Road,No,No
+20173128,QLD,September,2017,Wednesday,09:00,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,Ipswich,Somerset (R),Sub-Arterial Road,No,No
+20173133,QLD,September,2017,Saturday,11:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Ipswich,Somerset (R),Sub-Arterial Road,No,No
+20173136,QLD,September,2017,Monday,11:00,Single vehicle,1,No,No,Yes,100,Remote Australia,Central Queensland,Banana (S),Local Road,No,No
+20173145,QLD,September,2017,Monday,12:00,Single vehicle,2,No,No,No,100,Outer Regional Australia,Wide Bay,South Burnett (R),Sub-Arterial Road,No,No
+20173157,QLD,September,2017,Tuesday,08:00,Single vehicle,2,No,No,No,110,Remote Australia,Central Queensland,Central Highlands (R) (Qld),National Or State Highway,No,No
+20173165,QLD,September,2017,Monday,15:00,Pedestrian,1,No,Yes,No,50,Outer Regional Australia,Townsville,Townsville (C),Local Road,No,No
+20173171,QLD,September,2017,Saturday,02:00,Single vehicle,1,No,No,No,70,Inner Regional Australia,Central Queensland,Rockhampton (R),Sub-Arterial Road,No,No
+20173182,QLD,September,2017,Sunday,04:00,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Townsville,Townsville (C),National Or State Highway,No,No
+20173186,QLD,September,2017,Tuesday,09:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Gold Coast,Gold Coast (C),Sub-Arterial Road,No,No
+20173201,QLD,September,2017,Tuesday,12:00,Multiple vehicle,1,No,No,Yes,110,Very Remote Australia,Queensland - Outback,Murweh (S),National Or State Highway,No,No
+20173211,QLD,September,2017,Wednesday,12:00,Single vehicle,1,No,No,No,50,Inner Regional Australia,Toowoomba,Toowoomba (R),Local Road,No,No
+20173001,QLD,August,2017,Saturday,01:00,Multiple vehicle,1,No,No,No,100,Major Cities of Australia,Ipswich,Ipswich (C),Sub-Arterial Road,No,No
+20173003,QLD,August,2017,Monday,18:00,Pedestrian,1,No,No,No,60,Inner Regional Australia,Wide Bay,Fraser Coast (R),Collector Road,No,No
+20173023,QLD,August,2017,Friday,13:00,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Brisbane - South,Brisbane (C),Sub-Arterial Road,No,No
+20173032,QLD,August,2017,Thursday,17:00,Multiple vehicle,1,No,No,Yes,100,Outer Regional Australia,Darling Downs - Maranoa,Southern Downs (R),National Or State Highway,No,No
+20173041,QLD,August,2017,Sunday,03:00,Pedestrian,1,Yes,No,No,40,Major Cities of Australia,Brisbane Inner City,Brisbane (C),Collector Road,No,No
+20173051,QLD,August,2017,Saturday,11:00,Single vehicle,1,No,No,No,60,Inner Regional Australia,Sunshine Coast,Sunshine Coast (R),Local Road,No,No
+20173076,QLD,August,2017,Thursday,19:00,Multiple vehicle,1,No,No,Yes,70,Major Cities of Australia,Gold Coast,Gold Coast (C),Local Road,No,No
+20173102,QLD,August,2017,Wednesday,08:00,Single vehicle,2,No,No,No,100,Inner Regional Australia,Darling Downs - Maranoa,Southern Downs (R),National Or State Highway,No,No
+20173103,QLD,August,2017,Friday,11:00,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Sunshine Coast,Sunshine Coast (R),Sub-Arterial Road,No,No
+20173127,QLD,August,2017,Saturday,20:00,Single vehicle,1,No,No,No,100,Remote Australia,Central Queensland,Central Highlands (R) (Qld),Collector Road,No,No
+20173167,QLD,August,2017,Friday,17:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Townsville,Townsville (C),National Or State Highway,No,No
+20173188,QLD,August,2017,Sunday,10:00,Multiple vehicle,2,No,No,No,100,Major Cities of Australia,Logan - Beaudesert,Logan (C),Sub-Arterial Road,No,No
+20173197,QLD,August,2017,Sunday,18:00,Single vehicle,1,No,No,No,100,Very Remote Australia,Queensland - Outback,Carpentaria (S),Sub-Arterial Road,No,No
+20173225,QLD,August,2017,Tuesday,17:00,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Moreton Bay - North,Moreton Bay (R),Sub-Arterial Road,No,No
+20173226,QLD,August,2017,Thursday,09:00,Pedestrian,1,No,No,No,60,Outer Regional Australia,Townsville,Townsville (C),Sub-Arterial Road,No,No
+20173002,QLD,July,2017,Friday,10:00,Single vehicle,1,No,No,No,60,Outer Regional Australia,Mackay - Isaac - Whitsunday,Whitsunday (R),Sub-Arterial Road,No,No
+20173007,QLD,July,2017,Thursday,17:00,Pedestrian,1,No,Yes,No,50,Major Cities of Australia,Sunshine Coast,Sunshine Coast (R),Local Road,No,No
+20173026,QLD,July,2017,Sunday,19:00,Single vehicle,1,No,No,No,60,Major Cities of Australia,Gold Coast,Gold Coast (C),Local Road,No,No
+20173027,QLD,July,2017,Monday,13:00,Single vehicle,1,No,No,No,60,Major Cities of Australia,Moreton Bay - South,Moreton Bay (R),Local Road,No,No
+20173028,QLD,July,2017,Sunday,07:00,Multiple vehicle,1,No,No,No,50,Inner Regional Australia,Moreton Bay - South,Moreton Bay (R),Sub-Arterial Road,No,No
+20173075,QLD,July,2017,Sunday,00:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba (R),Collector Road,No,No
+20173097,QLD,July,2017,Thursday,06:00,Single vehicle,1,No,No,No,60,Inner Regional Australia,Gold Coast,Gold Coast (C),Sub-Arterial Road,No,No
+20173099,QLD,July,2017,Tuesday,05:00,Single vehicle,1,No,No,No,60,Major Cities of Australia,Logan - Beaudesert,Logan (C),Local Road,No,No
+20173100,QLD,July,2017,Tuesday,12:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Ipswich,Somerset (R),Sub-Arterial Road,No,No
+20173111,QLD,July,2017,Sunday,15:00,Single vehicle,2,No,No,No,100,Remote Australia,Darling Downs - Maranoa,Maranoa (R),Local Road,No,No
+20173125,QLD,July,2017,Saturday,22:00,Multiple vehicle,1,No,No,No,60,Outer Regional Australia,Cairns,Cairns (R),National Or State Highway,No,No
+20173141,QLD,July,2017,Saturday,04:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Sunshine Coast,Sunshine Coast (R),National Or State Highway,No,No
+20173173,QLD,July,2017,Wednesday,04:00,Single vehicle,3,No,No,No,100,Very Remote Australia,Queensland - Outback,Burke (S),Sub-Arterial Road,No,No
+20173176,QLD,July,2017,Thursday,13:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Brisbane - West,Brisbane (C),Sub-Arterial Road,No,No
+20173181,QLD,July,2017,Monday,11:00,Single vehicle,1,No,No,No,40,Inner Regional Australia,Gold Coast,Scenic Rim (R),Sub-Arterial Road,No,No
+20173187,QLD,July,2017,Tuesday,11:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Ipswich,Somerset (R),Sub-Arterial Road,No,No
+20173192,QLD,July,2017,Sunday,04:00,Single vehicle,1,No,No,No,110,Remote Australia,Central Queensland,Livingstone (S),National Or State Highway,No,No
+20173208,QLD,July,2017,Saturday,10:00,Single vehicle,2,No,No,No,60,Outer Regional Australia,Cairns,Mareeba (S),Local Road,No,No
+20173213,QLD,July,2017,Sunday,09:00,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,Sunshine Coast,Sunshine Coast (R),Sub-Arterial Road,No,No
+20173009,QLD,June,2017,Wednesday,20:00,Pedestrian,1,No,No,No,60,Inner Regional Australia,Mackay - Isaac - Whitsunday,Mackay (R),Local Road,No,No
+20173012,QLD,June,2017,Monday,19:00,Pedestrian,1,No,No,No,100,Outer Regional Australia,Townsville,Burdekin (S),National Or State Highway,No,No
+20173022,QLD,June,2017,Wednesday,07:00,Pedestrian,1,No,No,No,60,Major Cities of Australia,Brisbane - South,Brisbane (C),Local Road,No,No
+20173025,QLD,June,2017,Saturday,15:00,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Townsville,Townsville (C),National Or State Highway,No,No
+20173044,QLD,June,2017,Thursday,00:00,Single vehicle,1,No,No,No,80,Major Cities of Australia,Moreton Bay - North,Moreton Bay (R),Local Road,No,No
+20173057,QLD,June,2017,Monday,14:00,Single vehicle,1,No,No,No,80,Remote Australia,Cairns,Douglas (S),Collector Road,No,No
+20173085,QLD,June,2017,Wednesday,10:00,Pedestrian,1,Yes,Yes,No,50,Major Cities of Australia,Brisbane Inner City,Brisbane (C),Local Road,No,No
+20173104,QLD,June,2017,Saturday,23:00,Multiple vehicle,1,No,No,Yes,100,Outer Regional Australia,Wide Bay,North Burnett (R),National Or State Highway,No,No
+20173113,QLD,June,2017,Saturday,18:00,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Brisbane - East,Redland (C),Collector Road,No,No
+20173124,QLD,June,2017,Tuesday,23:00,Single vehicle,1,No,No,No,60,Major Cities of Australia,Moreton Bay - South,Moreton Bay (R),Local Road,No,No
+20173135,QLD,June,2017,Saturday,07:00,Multiple vehicle,1,No,No,No,50,Inner Regional Australia,Wide Bay,Bundaberg (R),Local Road,No,No
+20173140,QLD,June,2017,Saturday,12:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Central Queensland,Gladstone (R),National Or State Highway,No,No
+20173144,QLD,June,2017,Friday,00:00,Single vehicle,2,No,No,No,60,Outer Regional Australia,Townsville,Townsville (C),Collector Road,No,No
+20173147,QLD,June,2017,Monday,19:00,Pedestrian,1,Yes,No,No,50,Major Cities of Australia,Ipswich,Brisbane (C),Local Road,No,No
+20173163,QLD,June,2017,Thursday,20:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Sunshine Coast,Sunshine Coast (R),Local Road,No,No
+20173166,QLD,June,2017,Wednesday,17:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Wide Bay,Gympie (R),Local Road,No,No
+20173168,QLD,June,2017,Friday,17:00,Pedestrian,1,No,No,No,60,Major Cities of Australia,Moreton Bay - North,Moreton Bay (R),Sub-Arterial Road,No,No
+20173172,QLD,June,2017,Friday,06:00,Multiple vehicle,1,No,Yes,No,80,Major Cities of Australia,Ipswich,Ipswich (C),National Or State Highway,No,No
+20173194,QLD,June,2017,Thursday,17:00,Multiple vehicle,1,No,No,No,-9,Inner Regional Australia,Central Queensland,Livingstone (S),Local Road,No,No
+20173204,QLD,June,2017,Tuesday,16:00,Multiple vehicle,1,No,No,No,60,Remote Australia,Cairns,Douglas (S),Collector Road,No,No
+20173205,QLD,June,2017,Monday,16:00,Multiple vehicle,1,No,Yes,No,80,Major Cities of Australia,Logan - Beaudesert,Logan (C),Sub-Arterial Road,No,No
+20173207,QLD,June,2017,Friday,11:00,Pedestrian,1,No,No,No,50,Major Cities of Australia,Gold Coast,Gold Coast (C),Local Road,No,No
+20173209,QLD,June,2017,Sunday,01:00,Single vehicle,1,No,No,No,100,Major Cities of Australia,Brisbane - South,Brisbane (C),National Or State Highway,No,No
+20173212,QLD,June,2017,Saturday,02:00,Multiple vehicle,3,Yes,No,Yes,100,Outer Regional Australia,Cairns,Cassowary Coast (R),National Or State Highway,No,No
+20173010,QLD,May,2017,Sunday,14:00,Multiple vehicle,2,No,No,No,80,Outer Regional Australia,Cairns,Douglas (S),National Or State Highway,No,No
+20173018,QLD,May,2017,Tuesday,08:00,Multiple vehicle,1,No,Yes,No,40,Inner Regional Australia,Logan - Beaudesert,Logan (C),National Or State Highway,No,No
+20173035,QLD,May,2017,Sunday,17:00,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Mackay - Isaac - Whitsunday,Mackay (R),Collector Road,No,No
+20173040,QLD,May,2017,Thursday,18:00,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Queensland - Outback,Mareeba (S),Sub-Arterial Road,No,No
+20173042,QLD,May,2017,Tuesday,11:00,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Logan - Beaudesert,Logan (C),Sub-Arterial Road,No,No
+20173049,QLD,May,2017,Saturday,03:00,Single vehicle,1,No,No,No,100,Major Cities of Australia,Sunshine Coast,Sunshine Coast (R),National Or State Highway,No,No
+20173058,QLD,May,2017,Tuesday,09:00,Multiple vehicle,1,No,No,No,50,Outer Regional Australia,Cairns,Tablelands (R),Local Road,No,No
+20173067,QLD,May,2017,Saturday,08:00,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Wide Bay,Bundaberg (R),National Or State Highway,No,No
+20173088,QLD,May,2017,Monday,17:00,Pedestrian,1,No,No,No,70,Major Cities of Australia,Logan - Beaudesert,Logan (C),Sub-Arterial Road,No,No
+20173105,QLD,May,2017,Friday,21:00,Pedestrian,1,No,No,No,80,Inner Regional Australia,Sunshine Coast,Sunshine Coast (R),Local Road,No,No
+20173109,QLD,May,2017,Thursday,10:00,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,Central Queensland,Rockhampton (R),Local Road,No,No
+20173114,QLD,May,2017,Thursday,06:00,Single vehicle,1,No,Yes,No,100,Remote Australia,Darling Downs - Maranoa,Maranoa (R),Collector Road,No,No
+20173130,QLD,May,2017,Wednesday,16:00,Multiple vehicle,1,No,No,No,50,Outer Regional Australia,Townsville,Townsville (C),Local Road,No,No
+20173134,QLD,May,2017,Friday,19:00,Pedestrian,1,No,No,No,60,Major Cities of Australia,Brisbane - West,Brisbane (C),Collector Road,No,No
+20173151,QLD,May,2017,Wednesday,17:00,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Logan - Beaudesert,Logan (C),Sub-Arterial Road,No,No
+20173153,QLD,May,2017,Tuesday,16:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Central Queensland,Livingstone (S),Sub-Arterial Road,No,No
+20173154,QLD,May,2017,Saturday,22:00,Single vehicle,1,No,No,No,80,Major Cities of Australia,Sunshine Coast,Sunshine Coast (R),Sub-Arterial Road,No,No
+20173156,QLD,May,2017,Saturday,01:00,Pedestrian,1,No,No,No,80,Major Cities of Australia,Moreton Bay - North,Moreton Bay (R),Sub-Arterial Road,No,No
+20173170,QLD,May,2017,Monday,10:00,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Wide Bay,Fraser Coast (R),Local Road,No,No
+20173183,QLD,May,2017,Thursday,02:00,Multiple vehicle,1,No,No,Yes,100,Inner Regional Australia,Ipswich,Somerset (R),National Or State Highway,No,No
+20173215,QLD,May,2017,Thursday,11:00,Single vehicle,1,No,Yes,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Isaac (R),National Or State Highway,No,No
+20173218,QLD,May,2017,Tuesday,13:00,Pedestrian,1,No,No,No,60,Major Cities of Australia,Gold Coast,Gold Coast (C),Sub-Arterial Road,No,No
+20173219,QLD,May,2017,Saturday,16:00,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Wide Bay,Bundaberg (R),Sub-Arterial Road,No,No
+20173017,QLD,April,2017,Sunday,11:00,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,Toowoomba,Toowoomba (R),Sub-Arterial Road,No,No
+20173021,QLD,April,2017,Monday,12:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Mackay (R),Local Road,No,No
+20173062,QLD,April,2017,Tuesday,22:00,Single vehicle,1,No,No,No,80,Remote Australia,Cairns,Douglas (S),Collector Road,No,No
+20173086,QLD,April,2017,Friday,02:00,Single vehicle,1,No,No,No,50,Outer Regional Australia,Wide Bay,South Burnett (R),Local Road,No,No
+20173115,QLD,April,2017,Tuesday,05:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Brisbane Inner City,Brisbane (C),Sub-Arterial Road,No,No
+20173122,QLD,April,2017,Friday,11:00,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Cairns,Mareeba (S),National Or State Highway,No,No
+20173132,QLD,April,2017,Sunday,11:00,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,Ipswich,Somerset (R),Sub-Arterial Road,No,No
+20173138,QLD,April,2017,Saturday,23:00,Single vehicle,1,No,No,No,80,Major Cities of Australia,Sunshine Coast,Sunshine Coast (R),Local Road,No,No
+20173199,QLD,April,2017,Wednesday,13:00,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Darling Downs - Maranoa,Western Downs (R),National Or State Highway,No,No
+20173216,QLD,April,2017,Saturday,23:00,Single vehicle,1,No,No,No,100,Major Cities of Australia,Sunshine Coast,Sunshine Coast (R),National Or State Highway,No,No
+20173222,QLD,April,2017,Monday,15:00,Multiple vehicle,2,No,No,No,100,Inner Regional Australia,Wide Bay,Fraser Coast (R),National Or State Highway,No,Yes
+20173008,QLD,March,2017,Monday,01:00,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Ipswich,Scenic Rim (R),National Or State Highway,No,No
+20173050,QLD,March,2017,Thursday,15:00,Multiple vehicle,1,No,No,Yes,80,Inner Regional Australia,Wide Bay,Bundaberg (R),Sub-Arterial Road,No,No
+20173052,QLD,March,2017,Monday,21:00,Multiple vehicle,1,No,No,Yes,100,Outer Regional Australia,Townsville,Burdekin (S),National Or State Highway,No,No
+20173070,QLD,March,2017,Saturday,10:00,Pedestrian,1,No,No,No,50,Inner Regional Australia,Wide Bay,Fraser Coast (R),Local Road,No,No
+20173071,QLD,March,2017,Friday,15:00,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Wide Bay,Gympie (R),National Or State Highway,No,No
+20173081,QLD,March,2017,Thursday,09:00,Multiple vehicle,1,Yes,No,No,60,Major Cities of Australia,Gold Coast,Gold Coast (C),Local Road,No,No
+20173083,QLD,March,2017,Saturday,01:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Gold Coast,Gold Coast (C),Local Road,No,No
+20173118,QLD,March,2017,Sunday,05:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Gold Coast,Scenic Rim (R),Sub-Arterial Road,No,No
+20173129,QLD,March,2017,Monday,10:00,Single vehicle,1,No,No,No,60,Outer Regional Australia,Moreton Bay - North,Somerset (R),Sub-Arterial Road,No,No
+20173160,QLD,March,2017,Saturday,00:00,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Logan - Beaudesert,Logan (C),Sub-Arterial Road,No,No
+20173164,QLD,March,2017,Friday,12:00,Multiple vehicle,1,No,Yes,No,80,Outer Regional Australia,Cairns,Cairns (R),National Or State Highway,No,No
+20173178,QLD,March,2017,Sunday,23:00,Single vehicle,1,No,No,No,70,Major Cities of Australia,Gold Coast,Gold Coast (C),Sub-Arterial Road,No,No
+20173196,QLD,March,2017,Monday,08:00,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Whitsunday (R),Sub-Arterial Road,No,No
+20173214,QLD,March,2017,Wednesday,09:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Wide Bay,Gympie (R),Sub-Arterial Road,No,No
+20173004,QLD,February,2017,Friday,18:00,Single vehicle,1,No,No,No,110,Major Cities of Australia,Sunshine Coast,Sunshine Coast (R),National Or State Highway,No,No
+20173006,QLD,February,2017,Tuesday,17:00,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Ipswich,Somerset (R),Local Road,No,No
+20173015,QLD,February,2017,Saturday,03:00,Single vehicle,2,No,No,No,60,Major Cities of Australia,Moreton Bay - North,Moreton Bay (R),Collector Road,No,No
+20173016,QLD,February,2017,Wednesday,15:00,Multiple vehicle,1,No,No,No,100,Major Cities of Australia,Sunshine Coast,Noosa (S),Sub-Arterial Road,No,No
+20173037,QLD,February,2017,Sunday,10:00,Single vehicle,1,No,No,No,80,Outer Regional Australia,Cairns,Tablelands (R),Local Road,No,No
+20173043,QLD,February,2017,Saturday,07:00,Single vehicle,1,No,No,No,110,Remote Australia,Townsville,Charters Towers (R),National Or State Highway,No,No
+20173047,QLD,February,2017,Sunday,03:00,Single vehicle,1,No,No,No,60,Outer Regional Australia,Townsville,Burdekin (S),Local Road,No,No
+20173053,QLD,February,2017,Thursday,15:00,Single vehicle,1,No,No,No,100,Very Remote Australia,Queensland - Outback,Barcaldine (R),National Or State Highway,No,No
+20173074,QLD,February,2017,Wednesday,15:00,Multiple vehicle,1,No,No,Yes,100,Inner Regional Australia,Logan - Beaudesert,Logan (C),Sub-Arterial Road,No,No
+20173087,QLD,February,2017,Saturday,17:00,Single vehicle,1,No,No,No,70,Major Cities of Australia,Brisbane - South,Brisbane (C),Sub-Arterial Road,No,No
+20173108,QLD,February,2017,Sunday,19:00,Pedestrian,1,No,No,No,60,Inner Regional Australia,Darling Downs - Maranoa,Southern Downs (R),Local Road,No,No
+20173142,QLD,February,2017,Tuesday,16:00,Multiple vehicle,1,Yes,No,No,80,Major Cities of Australia,Brisbane - East,Redland (C),Local Road,No,No
+20173175,QLD,February,2017,Friday,19:00,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Gold Coast,Gold Coast (C),Sub-Arterial Road,No,No
+20173184,QLD,February,2017,Monday,11:00,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,Toowoomba,Toowoomba (R),Collector Road,No,No
+20173221,QLD,February,2017,Friday,22:00,Pedestrian,1,Yes,No,No,50,Major Cities of Australia,Gold Coast,Gold Coast (C),Local Road,No,No
+20173224,QLD,February,2017,Friday,05:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Brisbane - West,Brisbane (C),Sub-Arterial Road,No,No
+20173228,QLD,February,2017,Thursday,22:00,Single vehicle,1,No,No,Yes,80,Outer Regional Australia,Central Queensland,Gladstone (R),Sub-Arterial Road,No,No
+20173011,QLD,January,2017,Friday,18:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Wide Bay,South Burnett (R),Local Road,No,No
+20173030,QLD,January,2017,Thursday,00:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Sunshine Coast,Sunshine Coast (R),Sub-Arterial Road,No,No
+20173031,QLD,January,2017,Friday,22:00,Single vehicle,1,No,No,No,80,Major Cities of Australia,Gold Coast,Gold Coast (C),Local Road,No,No
+20173048,QLD,January,2017,Saturday,11:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Gold Coast,Gold Coast (C),Sub-Arterial Road,No,No
+20173063,QLD,January,2017,Sunday,00:00,Pedestrian,1,No,No,No,50,Outer Regional Australia,Cairns,Cairns (R),Local Road,Yes,No
+20173079,QLD,January,2017,Saturday,14:00,Multiple vehicle,2,No,No,No,90,Major Cities of Australia,Logan - Beaudesert,Logan (C),National Or State Highway,No,No
+20173091,QLD,January,2017,Wednesday,19:00,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Wide Bay,Bundaberg (R),Sub-Arterial Road,No,No
+20173093,QLD,January,2017,Monday,03:00,Pedestrian,1,No,No,No,100,Major Cities of Australia,Moreton Bay - North,Moreton Bay (R),National Or State Highway,Yes,No
+20173096,QLD,January,2017,Tuesday,12:00,Multiple vehicle,1,No,No,Yes,100,Outer Regional Australia,Townsville,Townsville (C),National Or State Highway,No,No
+20173098,QLD,January,2017,Friday,01:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Wide Bay,South Burnett (R),Undetermined,No,No
+20173139,QLD,January,2017,Monday,18:00,Single vehicle,1,No,No,No,70,Inner Regional Australia,Wide Bay,Fraser Coast (R),Local Road,No,No
+20173143,QLD,January,2017,Tuesday,12:00,Pedestrian,1,Yes,No,No,50,Remote Australia,Townsville,Palm Island (S),Local Road,No,No
+20173148,QLD,January,2017,Tuesday,22:00,Single vehicle,1,No,No,No,50,Major Cities of Australia,Logan - Beaudesert,Logan (C),Local Road,No,No
+20173155,QLD,January,2017,Thursday,15:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Brisbane Inner City,Brisbane (C),Local Road,No,No
+20173158,QLD,January,2017,Sunday,09:00,Single vehicle,1,No,No,No,80,Outer Regional Australia,Central Queensland,Livingstone (S),Access Road,No,No
+20173162,QLD,January,2017,Friday,19:00,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Sunshine Coast,Sunshine Coast (R),Local Road,No,No
+20173174,QLD,January,2017,Tuesday,16:00,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Whitsunday (R),Sub-Arterial Road,Yes,No
+20173177,QLD,January,2017,Saturday,06:00,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Mackay (R),National Or State Highway,No,No
+20173191,QLD,January,2017,Monday,17:00,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Logan - Beaudesert,Logan (C),Sub-Arterial Road,No,No
+20173203,QLD,January,2017,Tuesday,12:00,Pedestrian,1,No,Yes,Yes,100,Major Cities of Australia,Brisbane - South,Brisbane (C),National Or State Highway,No,No
+20173206,QLD,January,2017,Friday,22:00,Single vehicle,1,No,No,No,50,Outer Regional Australia,Wide Bay,Fraser Coast (R),Local Road,No,No
+20173223,QLD,January,2017,Tuesday,03:00,Multiple vehicle,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Mackay (R),National Or State Highway,No,No
+20174011,SA,December,2017,Friday,05:30,Single vehicle,1,No,No,No,110,Inner Regional Australia,South Australia - South East,The Coorong (DC),Arterial Road,No,No
+20174029,SA,December,2017,Monday,21:42,Pedestrian,1,No,No,No,60,Major Cities of Australia,Adelaide - West,West Torrens (C),Arterial Road,No,No
+20174044,SA,December,2017,Thursday,17:40,Single vehicle,1,No,No,No,80,Major Cities of Australia,Adelaide - North,Barossa (DC),Collector Road,No,No
+20174048,SA,December,2017,Saturday,21:00,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Adelaide - West,West Torrens (C),Arterial Road,Yes,No
+20174054,SA,December,2017,Thursday,20:40,Single vehicle,1,No,No,No,50,Major Cities of Australia,Adelaide - South,Marion (C),Local Road,Yes,No
+20174063,SA,December,2017,Thursday,20:40,Single vehicle,1,No,No,No,50,Major Cities of Australia,Adelaide - West,Port Adelaide Enfield (C),Sub-Arterial Road,No,No
+20174070,SA,December,2017,Wednesday,12:25,Multiple vehicle,1,No,No,No,110,Outer Regional Australia,South Australia - South East,The Coorong (DC),National Or State Highway,Yes,No
+20174073,SA,December,2017,Monday,06:45,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,Adelaide - South,Onkaparinga (C),Sub-Arterial Road,No,No
+20174089,SA,December,2017,Saturday,18:20,Pedestrian,1,No,No,No,50,Inner Regional Australia,Barossa - Yorke - Mid North,Barossa (DC),Local Road,No,No
+20174003,SA,November,2017,Sunday,16:30,Single vehicle,1,No,No,No,100,Very Remote Australia,South Australia - Outback,Unincorporated SA,Sub-Arterial Road,No,No
+20174018,SA,November,2017,Saturday,11:28,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Adelaide - Central and Hills,Adelaide Hills (DC),Arterial Road,No,No
+20174022,SA,November,2017,Wednesday,18:20,Pedestrian,1,No,No,No,30,Major Cities of Australia,Adelaide - Central and Hills,Adelaide (C),Sub-Arterial Road,No,No
+20174028,SA,November,2017,Tuesday,12:08,Pedestrian,1,No,Yes,No,60,Major Cities of Australia,Adelaide - South,Holdfast Bay (C),Arterial Road,No,No
+20174045,SA,November,2017,Wednesday,01:00,Single vehicle,1,No,No,No,110,Very Remote Australia,South Australia - Outback,Streaky Bay (DC),Arterial Road,No,No
+20174055,SA,November,2017,Monday,06:33,Single vehicle,1,No,No,No,100,Inner Regional Australia,South Australia - South East,Alexandrina (DC),Arterial Road,No,No
+20174057,SA,November,2017,Wednesday,23:20,Multiple vehicle,1,No,No,Yes,110,Inner Regional Australia,Barossa - Yorke - Mid North,Mallala (DC),National Or State Highway,No,No
+20174072,SA,November,2017,Wednesday,22:50,Pedestrian,1,No,No,No,60,Major Cities of Australia,Adelaide - West,West Torrens (C),Arterial Road,No,No
+20174074,SA,November,2017,Monday,16:40,Multiple vehicle,3,No,No,No,100,Outer Regional Australia,Barossa - Yorke - Mid North,Yorke Peninsula (DC),Collector Road,No,No
+20174008,SA,October,2017,Sunday,07:40,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Adelaide - North,Salisbury (C),Sub-Arterial Road,No,No
+20174017,SA,October,2017,Monday,18:40,Single vehicle,1,No,No,No,100,Outer Regional Australia,South Australia - South East,Grant (DC),Sub-Arterial Road,No,No
+20174040,SA,October,2017,Thursday,11:53,Pedestrian,1,No,No,No,60,Major Cities of Australia,Adelaide - Central and Hills,Burnside (C),Sub-Arterial Road,No,No
+20174056,SA,October,2017,Tuesday,12:04,Single vehicle,1,No,No,No,110,Inner Regional Australia,South Australia - South East,The Coorong (DC),National Or State Highway,No,No
+20174069,SA,October,2017,Friday,04:51,Single vehicle,1,No,No,No,60,Major Cities of Australia,Adelaide - South,Onkaparinga (C),Sub-Arterial Road,No,No
+20174071,SA,October,2017,Sunday,21:20,Pedestrian,1,No,No,No,60,Major Cities of Australia,Adelaide - Central and Hills,Prospect (C),Arterial Road,No,No
+20174075,SA,October,2017,Sunday,19:17,Multiple vehicle,2,No,No,No,90,Major Cities of Australia,Adelaide - North,Salisbury (C),Local Road,No,No
+20174087,SA,October,2017,Thursday,08:25,Multiple vehicle,1,No,Yes,No,60,Major Cities of Australia,Adelaide - Central and Hills,Norwood Payneham St Peters (C),Sub-Arterial Road,No,No
+20174010,SA,September,2017,Saturday,17:30,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Adelaide - North,Playford (C),Sub-Arterial Road,No,No
+20174020,SA,September,2017,Tuesday,13:27,Multiple vehicle,1,No,No,No,110,Inner Regional Australia,South Australia - South East,Murray Bridge (RC),National Or State Highway,No,No
+20174026,SA,September,2017,Monday,00:25,Single vehicle,1,No,No,No,110,Inner Regional Australia,Adelaide - North,Playford (C),National Or State Highway,No,No
+20174037,SA,September,2017,Friday,17:30,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Adelaide - West,West Torrens (C),Sub-Arterial Road,No,No
+20174051,SA,September,2017,Thursday,23:20,Single vehicle,1,No,No,No,40,Outer Regional Australia,South Australia - South East,Loxton Waikerie (DC),Access Road,No,No
+20174059,SA,September,2017,Wednesday,07:40,Single vehicle,1,No,No,No,100,Inner Regional Australia,Barossa - Yorke - Mid North,Barossa (DC),Arterial Road,No,No
+20174002,SA,August,2017,Wednesday,14:50,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Adelaide - North,Salisbury (C),Collector Road,No,No
+20174004,SA,August,2017,Wednesday,13:20,Single vehicle,1,No,No,No,60,Major Cities of Australia,Adelaide - North,Tea Tree Gully (C),Sub-Arterial Road,No,No
+20174034,SA,August,2017,Thursday,18:55,Multiple vehicle,1,No,No,No,10,Major Cities of Australia,Adelaide - West,Charles Sturt (C),Collector Road,No,No
+20174035,SA,August,2017,Monday,19:46,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Adelaide - Central and Hills,Burnside (C),Arterial Road,No,No
+20174046,SA,August,2017,Saturday,04:10,Single vehicle,2,No,No,No,100,Inner Regional Australia,South Australia - South East,Alexandrina (DC),Collector Road,No,No
+20174052,SA,August,2017,Sunday,15:30,Multiple vehicle,1,No,No,No,50,Major Cities of Australia,Adelaide - North,Playford (C),Local Road,No,No
+20174058,SA,August,2017,Sunday,13:05,Single vehicle,1,No,No,No,80,Inner Regional Australia,Adelaide - South,Onkaparinga (C),Sub-Arterial Road,No,No
+20174065,SA,August,2017,Tuesday,19:10,Multiple vehicle,1,No,No,No,90,Major Cities of Australia,Adelaide - West,Port Adelaide Enfield (C),National Or State Highway,No,No
+20174067,SA,August,2017,Sunday,06:30,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Adelaide - North,Salisbury (C),Arterial Road,No,No
+20174076,SA,August,2017,Tuesday,10:50,Single vehicle,1,No,No,No,110,Outer Regional Australia,South Australia - South East,Wattle Range (DC),Collector Road,No,No
+20174079,SA,August,2017,Monday,17:00,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Adelaide - North,Salisbury (C),National Or State Highway,No,No
+20174085,SA,August,2017,Tuesday,18:45,Single vehicle,1,No,No,No,100,Inner Regional Australia,South Australia - South East,Yankalilla (DC),Arterial Road,No,No
+20174091,SA,August,2017,Sunday,15:10,Single vehicle,1,No,No,No,80,Inner Regional Australia,Adelaide - Central and Hills,Mount Barker (DC),Sub-Arterial Road,No,No
+20174093,SA,August,2017,Friday,15:30,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Adelaide - North,Playford (C),Sub-Arterial Road,No,No
+20174009,SA,July,2017,Tuesday,19:10,Pedestrian,1,No,No,No,50,Major Cities of Australia,Adelaide - South,Holdfast Bay (C),Collector Road,No,No
+20174030,SA,July,2017,Sunday,13:48,Single vehicle,1,No,No,No,100,Inner Regional Australia,Barossa - Yorke - Mid North,Barossa (DC),Arterial Road,No,No
+20174031,SA,July,2017,Friday,23:20,Single vehicle,1,No,No,No,50,Inner Regional Australia,Barossa - Yorke - Mid North,Light (RegC),Local Road,No,No
+20174033,SA,July,2017,Monday,12:08,Multiple vehicle,1,No,No,No,110,Inner Regional Australia,Barossa - Yorke - Mid North,Mallala (DC),National Or State Highway,No,No
+20174050,SA,July,2017,Friday,11:20,Pedestrian,1,No,Yes,No,50,Major Cities of Australia,Adelaide - North,Gawler (T),Local Road,No,No
+20174060,SA,July,2017,Sunday,01:45,Single vehicle,1,No,No,No,100,Inner Regional Australia,Adelaide - Central and Hills,Adelaide Hills (DC),Collector Road,No,No
+20174061,SA,July,2017,Saturday,04:00,Pedestrian,1,No,No,Yes,50,Major Cities of Australia,Adelaide - North,Salisbury (C),Local Road,No,No
+20174066,SA,July,2017,Wednesday,13:45,Multiple vehicle,1,No,No,Yes,80,Inner Regional Australia,South Australia - South East,Murray Bridge (RC),National Or State Highway,No,No
+20174078,SA,July,2017,Friday,03:45,Single vehicle,1,No,Yes,No,50,Inner Regional Australia,Barossa - Yorke - Mid North,Barossa (DC),Arterial Road,No,No
+20174081,SA,July,2017,Tuesday,08:40,Pedestrian,1,No,No,No,60,Major Cities of Australia,Adelaide - West,West Torrens (C),National Or State Highway,No,No
+20174083,SA,July,2017,Thursday,14:32,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Adelaide - Central and Hills,Adelaide Hills (DC),Arterial Road,No,No
+20174012,SA,June,2017,Friday,17:30,Multiple vehicle,1,No,No,No,110,Outer Regional Australia,Barossa - Yorke - Mid North,Port Pirie City and Dists (M),National Or State Highway,No,No
+20174013,SA,June,2017,Thursday,00:40,Single vehicle,2,No,No,No,110,Outer Regional Australia,Barossa - Yorke - Mid North,Wakefield (DC),National Or State Highway,No,No
+20174016,SA,June,2017,Friday,17:45,Pedestrian,1,No,No,Yes,25,Major Cities of Australia,Adelaide - Central and Hills,Burnside (C),Collector Road,No,No
+20174038,SA,June,2017,Friday,17:50,Single vehicle,1,No,No,No,100,Inner Regional Australia,Adelaide - Central and Hills,Adelaide Hills (DC),Sub-Arterial Road,No,No
+20174042,SA,June,2017,Saturday,15:02,Single vehicle,1,No,No,No,60,Major Cities of Australia,Adelaide - South,Mitcham (C),Sub-Arterial Road,No,No
+20174077,SA,June,2017,Sunday,23:40,Single vehicle,1,No,No,No,50,Major Cities of Australia,Adelaide - North,Salisbury (C),Sub-Arterial Road,No,No
+20174088,SA,June,2017,Tuesday,21:30,Pedestrian,1,No,No,No,40,Major Cities of Australia,Adelaide - South,Mitcham (C),National Or State Highway,No,No
+20174090,SA,June,2017,Saturday,12:55,Single vehicle,1,No,No,No,60,Major Cities of Australia,Adelaide - North,Salisbury (C),Collector Road,No,No
+20174005,SA,May,2017,Thursday,13:15,Single vehicle,1,No,No,No,80,Outer Regional Australia,South Australia - Outback,Whyalla (C),Arterial Road,No,No
+20174043,SA,May,2017,Wednesday,14:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,South Australia - South East,Tatiara (DC),Collector Road,No,No
+20174047,SA,May,2017,Tuesday,11:00,Single vehicle,1,No,No,No,80,Remote Australia,South Australia - South East,Kangaroo Island (DC),Sub-Arterial Road,No,No
+20174064,SA,May,2017,Sunday,11:28,Pedestrian,1,No,No,No,100,Outer Regional Australia,Barossa - Yorke - Mid North,Port Pirie City and Dists (M),Collector Road,No,No
+20174068,SA,May,2017,Sunday,14:30,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Adelaide - South,Onkaparinga (C),Sub-Arterial Road,No,No
+20174021,SA,April,2017,Wednesday,15:00,Multiple vehicle,1,No,No,No,50,Remote Australia,South Australia - Outback,Tumby Bay (DC),Collector Road,No,No
+20174025,SA,April,2017,Tuesday,15:25,Single vehicle,1,No,No,No,60,Outer Regional Australia,South Australia - South East,Naracoorte and Lucindale (DC),Collector Road,No,No
+20174027,SA,April,2017,Tuesday,16:00,Multiple vehicle,1,No,No,Yes,110,Inner Regional Australia,Barossa - Yorke - Mid North,Wakefield (DC),National Or State Highway,No,No
+20174039,SA,April,2017,Monday,13:35,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Adelaide - North,Playford (C),Sub-Arterial Road,No,No
+20174041,SA,April,2017,Wednesday,18:40,Multiple vehicle,1,No,No,No,110,Outer Regional Australia,Barossa - Yorke - Mid North,Goyder (DC),National Or State Highway,No,No
+20174049,SA,April,2017,Wednesday,06:04,Multiple vehicle,2,No,No,No,110,Inner Regional Australia,Adelaide - North,Mallala (DC),National Or State Highway,No,No
+20174086,SA,April,2017,Wednesday,03:00,Single vehicle,1,No,No,No,100,Inner Regional Australia,Adelaide - Central and Hills,Adelaide Hills (DC),Local Road,No,No
+20174001,SA,March,2017,Friday,18:45,Single vehicle,1,No,No,No,50,Major Cities of Australia,Adelaide - West,Port Adelaide Enfield (C),Local Road,No,No
+20174006,SA,March,2017,Thursday,13:30,Single vehicle,1,No,No,Yes,60,Major Cities of Australia,Adelaide - West,Port Adelaide Enfield (C),Arterial Road,No,No
+20174007,SA,March,2017,Wednesday,22:00,Multiple vehicle,1,No,No,No,40,Major Cities of Australia,Adelaide - West,Charles Sturt (C),Sub-Arterial Road,No,No
+20174019,SA,March,2017,Saturday,00:25,Pedestrian,1,No,No,No,50,Major Cities of Australia,Adelaide - Central and Hills,Adelaide (C),Sub-Arterial Road,No,No
+20174023,SA,March,2017,Thursday,18:40,Single vehicle,1,No,No,No,100,Very Remote Australia,South Australia - Outback,Anangu Pitjantjatjara (AC),Local Road,No,No
+20174036,SA,March,2017,Wednesday,07:13,Single vehicle,1,No,No,No,70,Major Cities of Australia,Adelaide - North,Tea Tree Gully (C),Sub-Arterial Road,No,No
+20174053,SA,March,2017,Monday,16:10,Multiple vehicle,1,No,No,No,110,Outer Regional Australia,South Australia - South East,Loxton Waikerie (DC),Arterial Road,No,No
+20174084,SA,March,2017,Saturday,03:00,Single vehicle,1,No,No,No,110,Outer Regional Australia,Barossa - Yorke - Mid North,Mount Remarkable (DC),Arterial Road,No,No
+20174014,SA,February,2017,Friday,16:15,Multiple vehicle,1,No,No,Yes,110,Outer Regional Australia,South Australia - South East,Wattle Range (DC),Arterial Road,No,No
+20174062,SA,February,2017,Monday,23:15,Single vehicle,1,No,No,No,100,Inner Regional Australia,Barossa - Yorke - Mid North,Barossa (DC),Local Road,No,No
+20174080,SA,February,2017,Wednesday,10:50,Single vehicle,1,No,No,No,10,Inner Regional Australia,Barossa - Yorke - Mid North,Barossa (DC),Arterial Road,No,No
+20174082,SA,February,2017,Sunday,20:05,Pedestrian,1,No,No,No,50,Major Cities of Australia,Adelaide - South,Marion (C),Local Road,No,No
+20174015,SA,January,2017,Wednesday,21:00,Pedestrian,1,No,No,No,10,Major Cities of Australia,Adelaide - South,Onkaparinga (C),Sub-Arterial Road,No,No
+20174024,SA,January,2017,Friday,15:25,Multiple vehicle,2,No,No,No,90,Inner Regional Australia,Barossa - Yorke - Mid North,Barossa (DC),Arterial Road,No,No
+20174032,SA,January,2017,Friday,00:15,Multiple vehicle,1,No,Yes,No,110,Remote Australia,South Australia - Outback,Unincorporated SA,National Or State Highway,No,No
+20174092,SA,January,2017,Tuesday,09:25,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Adelaide - North,Light (RegC),Collector Road,No,No
+20175014,WA,December,2017,Wednesday,17:08,Single vehicle,1,No,No,No,110,Very Remote Australia,Western Australia - Outback (North),Broome (S),National Or State Highway,No,No
+20175015,WA,December,2017,Friday,11:50,Pedestrian,1,No,No,No,50,Major Cities of Australia,Perth - South East,Kalamunda (C),Local Road,No,No
+20175017,WA,December,2017,Tuesday,16:20,Pedestrian,1,No,No,No,50,Major Cities of Australia,Perth - South East,Kalamunda (C),Arterial Road,No,No
+20175038,WA,December,2017,Sunday,17:09,Single vehicle,1,No,No,No,70,Major Cities of Australia,Perth - North West,Stirling (C),Arterial Road,No,No
+20175044,WA,December,2017,Friday,20:00,Single vehicle,1,No,No,No,50,Major Cities of Australia,Perth - North East,Swan (C),Local Road,Yes,No
+20175047,WA,December,2017,Tuesday,20:12,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Perth - South East,South Perth (C),Local Road,No,No
+20175051,WA,December,2017,Wednesday,15:20,Multiple vehicle,1,No,Yes,No,110,Outer Regional Australia,Bunbury,Bridgetown-Greenbushes (S),National Or State Highway,No,No
+20175069,WA,December,2017,Monday,05:06,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Brookton (S),National Or State Highway,Yes,No
+20175070,WA,December,2017,Thursday,13:39,Multiple vehicle,1,No,No,No,60,Outer Regional Australia,Western Australia - Wheat Belt,Albany (C),National Or State Highway,No,No
+20175073,WA,December,2017,Thursday,14:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Western Australia - Wheat Belt,Toodyay (S),Local Road,No,No
+20175075,WA,December,2017,Saturday,10:20,Multiple vehicle,1,No,No,Yes,90,Major Cities of Australia,Perth - North West,Wanneroo (C),National Or State Highway,No,No
+20175078,WA,December,2017,Monday,08:20,Multiple vehicle,1,No,Yes,No,70,Major Cities of Australia,Perth - North East,Swan (C),Arterial Road,No,No
+20175079,WA,December,2017,Tuesday,15:25,Multiple vehicle,1,No,No,No,100,Major Cities of Australia,Perth - North West,Joondalup (C),National Or State Highway,Yes,No
+20175102,WA,December,2017,Saturday,11:27,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Chittering (S),Arterial Road,No,No
+20175105,WA,December,2017,Monday,19:50,Multiple vehicle,1,No,No,No,50,Outer Regional Australia,Western Australia - Outback (South),Kalgoorlie/Boulder (C),Local Road,No,No
+20175116,WA,December,2017,Tuesday,16:27,Single vehicle,1,No,No,No,50,Major Cities of Australia,Perth - South West,Cockburn (C),Local Road,No,No
+20175117,WA,December,2017,Friday,05:39,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,Bunbury,Bunbury (C),National Or State Highway,No,No
+20175119,WA,December,2017,Wednesday,03:40,Single vehicle,1,No,Yes,No,110,Very Remote Australia,Western Australia - Outback (South),Ravensthorpe (S),National Or State Highway,No,No
+20175127,WA,December,2017,Thursday,21:15,Multiple vehicle,1,No,No,Yes,100,Inner Regional Australia,Bunbury,Dardanup (S),National Or State Highway,No,No
+20175146,WA,December,2017,Wednesday,15:30,Single vehicle,1,No,No,No,110,Very Remote Australia,Western Australia - Outback (South),Carnarvon (S),National Or State Highway,No,No
+20175003,WA,November,2017,Wednesday,07:30,Single vehicle,1,No,No,No,110,Very Remote Australia,Western Australia - Outback (North),Halls Creek (S),Arterial Road,No,No
+20175053,WA,November,2017,Saturday,05:31,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Perth - Inner,Perth (C),National Or State Highway,No,No
+20175060,WA,November,2017,Monday,13:09,Multiple vehicle,1,No,No,Yes,110,Inner Regional Australia,Bunbury,Donnybrook-Balingup (S),National Or State Highway,No,No
+20175080,WA,November,2017,Friday,04:04,Multiple vehicle,1,No,Yes,Yes,90,Inner Regional Australia,Mandurah,Murray (S),Arterial Road,No,No
+20175101,WA,November,2017,Sunday,08:19,Single vehicle,2,No,No,No,80,Outer Regional Australia,Western Australia - Wheat Belt,Albany (C),Local Road,No,No
+20175126,WA,November,2017,Saturday,06:10,Single vehicle,1,No,No,No,110,Inner Regional Australia,Bunbury,Augusta-Margaret River (S),Local Road,No,No
+20175129,WA,November,2017,Saturday,01:37,Single vehicle,1,No,No,No,110,Remote Australia,Western Australia - Outback (South),Perenjori (S),Arterial Road,No,No
+20175143,WA,November,2017,Saturday,23:49,Pedestrian,1,No,No,No,50,Very Remote Australia,Western Australia - Outback (North),Halls Creek (S),Local Road,No,No
+20175151,WA,November,2017,Tuesday,03:15,Single vehicle,1,No,No,No,90,Inner Regional Australia,Western Australia - Wheat Belt,Toodyay (S),Arterial Road,No,No
+20175024,WA,October,2017,Monday,12:52,Multiple vehicle,1,No,No,No,50,Inner Regional Australia,Bunbury,Collie (S),Local Road,No,No
+20175035,WA,October,2017,Saturday,13:22,Single vehicle,1,No,No,No,110,Very Remote Australia,Western Australia - Outback (North),Broome (S),Local Road,No,No
+20175043,WA,October,2017,Tuesday,17:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Bunbury,Nannup (S),Arterial Road,No,No
+20175045,WA,October,2017,Saturday,00:35,Single vehicle,1,No,No,No,50,Remote Australia,Western Australia - Wheat Belt,Kent (S),Arterial Road,No,No
+20175061,WA,October,2017,Monday,08:48,Multiple vehicle,1,No,Yes,No,50,Major Cities of Australia,Perth - North East,Swan (C),Local Road,No,No
+20175063,WA,October,2017,Friday,07:20,Single vehicle,1,No,No,No,110,Inner Regional Australia,Western Australia - Wheat Belt,York (S),Local Road,No,No
+20175065,WA,October,2017,Thursday,23:47,Multiple vehicle,1,No,No,Yes,110,Very Remote Australia,Western Australia - Outback (North),East Pilbara (S),National Or State Highway,No,No
+20175071,WA,October,2017,Sunday,10:10,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Perth - North West,Joondalup (C),Arterial Road,No,No
+20175081,WA,October,2017,Friday,22:12,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Perth - South West,Cockburn (C),National Or State Highway,No,No
+20175091,WA,October,2017,Friday,19:45,Single vehicle,2,No,No,No,50,Major Cities of Australia,Perth - South West,Rockingham (C),Local Road,No,No
+20175130,WA,October,2017,Tuesday,08:00,Single vehicle,1,No,No,No,110,Very Remote Australia,Western Australia - Outback (South),Dundas (S),National Or State Highway,No,No
+20175135,WA,October,2017,Tuesday,16:42,Multiple vehicle,1,No,No,Yes,110,Inner Regional Australia,Perth - South East,Armadale (C),National Or State Highway,No,No
+20175137,WA,October,2017,Thursday,11:36,Multiple vehicle,1,No,No,No,50,Outer Regional Australia,Western Australia - Outback (South),Greater Geraldton (C),Local Road,No,No
+20175138,WA,October,2017,Monday,11:55,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Victoria Plains (S),National Or State Highway,No,No
+20175012,WA,September,2017,Wednesday,13:40,Single vehicle,1,No,No,No,110,Inner Regional Australia,Bunbury,Harvey (S),Local Road,No,No
+20175030,WA,September,2017,Friday,19:30,Pedestrian,1,No,No,No,110,Very Remote Australia,Western Australia - Outback (North),Derby-West Kimberley (S),National Or State Highway,No,No
+20175064,WA,September,2017,Friday,16:07,Single vehicle,1,No,No,No,60,Major Cities of Australia,Perth - Inner,Mosman Park (T),National Or State Highway,No,No
+20175100,WA,September,2017,Monday,15:49,Multiple vehicle,1,No,Yes,Yes,80,Major Cities of Australia,Perth - South West,Cockburn (C),Arterial Road,No,No
+20175104,WA,September,2017,Sunday,06:09,Multiple vehicle,1,No,No,No,110,Inner Regional Australia,Bunbury,Dardanup (S),Arterial Road,No,No
+20175106,WA,September,2017,Friday,15:29,Single vehicle,1,No,No,No,110,Inner Regional Australia,Bunbury,Capel (S),Arterial Road,No,No
+20175110,WA,September,2017,Wednesday,17:15,Single vehicle,1,No,No,No,70,Major Cities of Australia,Perth - South West,Rockingham (C),National Or State Highway,No,No
+20175120,WA,September,2017,Monday,18:17,Single vehicle,1,No,No,No,70,Major Cities of Australia,Perth - North East,Swan (C),Arterial Road,No,No
+20175123,WA,September,2017,Saturday,14:54,Single vehicle,1,No,No,No,100,Major Cities of Australia,Perth - North West,Stirling (C),National Or State Highway,No,No
+20175136,WA,September,2017,Monday,19:50,Pedestrian,1,No,No,No,60,Major Cities of Australia,Perth - North West,Stirling (C),National Or State Highway,No,No
+20175141,WA,September,2017,Thursday,05:30,Multiple vehicle,1,No,Yes,No,90,Outer Regional Australia,Western Australia - Outback (South),Greater Geraldton (C),National Or State Highway,No,No
+20175001,WA,August,2017,Tuesday,07:10,Multiple vehicle,1,No,Yes,No,70,Major Cities of Australia,Perth - South East,Canning (C),Local Road,No,No
+20175019,WA,August,2017,Thursday,16:08,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Albany (C),Local Road,No,No
+20175033,WA,August,2017,Thursday,07:15,Multiple vehicle,3,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Gingin (S),Arterial Road,No,No
+20175036,WA,August,2017,Thursday,16:40,Multiple vehicle,1,Yes,No,No,60,Major Cities of Australia,Perth - South West,Melville (C),Arterial Road,No,No
+20175037,WA,August,2017,Friday,20:40,Single vehicle,1,No,No,No,90,Very Remote Australia,Western Australia - Outback (North),Broome (S),National Or State Highway,No,No
+20175042,WA,August,2017,Wednesday,10:25,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Narrogin (S),Local Road,No,No
+20175066,WA,August,2017,Friday,11:34,Multiple vehicle,1,No,No,No,100,Major Cities of Australia,Perth - South West,Rockingham (C),National Or State Highway,No,No
+20175082,WA,August,2017,Tuesday,12:55,Pedestrian,1,No,No,No,70,Major Cities of Australia,Perth - South West,Melville (C),National Or State Highway,No,No
+20175147,WA,August,2017,Wednesday,13:25,Multiple vehicle,1,No,No,No,110,Remote Australia,Western Australia - Outback (South),Carnamah (S),Arterial Road,No,No
+20175009,WA,July,2017,Saturday,19:25,Multiple vehicle,1,No,No,No,110,Inner Regional Australia,Bunbury,Harvey (S),National Or State Highway,No,No
+20175021,WA,July,2017,Sunday,08:55,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Perth - North East,Bayswater (C),Arterial Road,No,No
+20175022,WA,July,2017,Thursday,17:50,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Mandurah,Mandurah (C),Local Road,No,No
+20175025,WA,July,2017,Tuesday,09:00,Multiple vehicle,1,No,No,No,50,Outer Regional Australia,Western Australia - Outback (South),Kalgoorlie/Boulder (C),Local Road,No,No
+20175026,WA,July,2017,Monday,16:20,Single vehicle,1,No,No,No,80,Major Cities of Australia,Perth - South West,Cockburn (C),Arterial Road,No,No
+20175032,WA,July,2017,Sunday,20:50,Single vehicle,1,No,No,No,80,Inner Regional Australia,Perth - North West,Wanneroo (C),Arterial Road,No,No
+20175039,WA,July,2017,Wednesday,13:15,Single vehicle,1,No,No,No,110,Inner Regional Australia,Western Australia - Wheat Belt,Northam (S),Local Road,No,No
+20175068,WA,July,2017,Monday,21:14,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Outback (South),Greater Geraldton (C),National Or State Highway,No,No
+20175087,WA,July,2017,Wednesday,23:15,Single vehicle,1,No,No,No,110,Remote Australia,Western Australia - Wheat Belt,Merredin (S),Local Road,No,No
+20175118,WA,July,2017,Friday,15:50,Single vehicle,1,No,No,No,50,Major Cities of Australia,Perth - South West,Rockingham (C),Local Road,No,No
+20175134,WA,July,2017,Sunday,17:15,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Perth - North West,Stirling (C),Local Road,No,No
+20175010,WA,June,2017,Tuesday,16:35,Pedestrian,1,No,No,No,60,Major Cities of Australia,Perth - North East,Bassendean (T),Local Road,No,No
+20175016,WA,June,2017,Saturday,08:08,Multiple vehicle,1,No,No,Yes,80,Major Cities of Australia,Perth - South West,Kwinana (C),Local Road,No,No
+20175055,WA,June,2017,Thursday,13:45,Single vehicle,1,No,No,No,110,Very Remote Australia,Western Australia - Outback (North),Broome (S),Local Road,No,No
+20175072,WA,June,2017,Thursday,07:00,Single vehicle,1,No,Yes,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Albany (C),National Or State Highway,No,No
+20175083,WA,June,2017,Monday,12:45,Multiple vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Gingin (S),Arterial Road,No,No
+20175111,WA,June,2017,Friday,15:00,Multiple vehicle,2,No,Yes,No,40,Very Remote Australia,Western Australia - Outback (North),Port Hedland (T),National Or State Highway,No,No
+20175122,WA,June,2017,Friday,18:20,Single vehicle,1,No,No,No,100,Outer Regional Australia,Western Australia - Wheat Belt,Beverley (S),National Or State Highway,No,No
+20175150,WA,June,2017,Friday,17:17,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Perth - North West,Stirling (C),National Or State Highway,No,No
+20175109,WA,May,2017,Monday,07:30,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Pingelly (S),Arterial Road,No,No
+20175133,WA,May,2017,Monday,19:00,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Outback (South),Irwin (S),National Or State Highway,No,No
+20175006,WA,April,2017,Saturday,20:19,Single vehicle,2,No,No,No,70,Inner Regional Australia,Western Australia - Wheat Belt,Gingin (S),Arterial Road,No,No
+20175008,WA,April,2017,Tuesday,14:50,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,Bunbury,Bunbury (C),Local Road,No,No
+20175011,WA,April,2017,Saturday,20:06,Pedestrian,1,No,No,No,50,Major Cities of Australia,Perth - Inner,Nedlands (C),Local Road,No,No
+20175020,WA,April,2017,Wednesday,21:00,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Dandaragan (S),Local Road,No,No
+20175023,WA,April,2017,Monday,17:30,Single vehicle,1,No,No,No,50,Major Cities of Australia,Perth - South East,Armadale (C),Local Road,No,No
+20175027,WA,April,2017,Tuesday,06:16,Multiple vehicle,1,No,Yes,No,100,Major Cities of Australia,Perth - South East,Armadale (C),Arterial Road,No,No
+20175031,WA,April,2017,Friday,17:29,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Mandurah,Murray (S),National Or State Highway,No,No
+20175052,WA,April,2017,Monday,10:25,Single vehicle,1,No,No,No,90,Outer Regional Australia,Western Australia - Wheat Belt,Denmark (S),National Or State Highway,No,No
+20175054,WA,April,2017,Friday,00:04,Single vehicle,1,No,No,No,50,Inner Regional Australia,Bunbury,Collie (S),Local Road,No,Yes
+20175056,WA,April,2017,Sunday,04:30,Single vehicle,1,No,No,No,110,Remote Australia,Western Australia - Outback (South),Morawa (S),Local Road,No,No
+20175077,WA,April,2017,Friday,02:50,Single vehicle,1,No,No,No,80,Major Cities of Australia,Perth - South East,Armadale (C),Local Road,No,No
+20175084,WA,April,2017,Saturday,18:20,Multiple vehicle,2,No,No,No,110,Outer Regional Australia,Western Australia - Outback (South),Irwin (S),National Or State Highway,No,No
+20175096,WA,April,2017,Saturday,12:00,Single vehicle,1,No,No,No,80,Outer Regional Australia,Bunbury,Bridgetown-Greenbushes (S),Arterial Road,No,No
+20175115,WA,April,2017,Friday,14:03,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Perth - North West,Stirling (C),Arterial Road,No,No
+20175121,WA,April,2017,Thursday,14:00,Single vehicle,1,No,No,No,60,Major Cities of Australia,Perth - South East,Kalamunda (C),Arterial Road,No,No
+20175124,WA,April,2017,Monday,18:50,Single vehicle,1,No,No,No,50,Major Cities of Australia,Perth - North West,Wanneroo (C),Local Road,No,No
+20175142,WA,April,2017,Saturday,22:05,Multiple vehicle,1,Yes,No,No,70,Major Cities of Australia,Perth - South East,Belmont (C),Arterial Road,No,No
+20175004,WA,March,2017,Thursday,02:00,Single vehicle,1,No,No,No,110,Remote Australia,Western Australia - Wheat Belt,Westonia (S),Local Road,No,No
+20175005,WA,March,2017,Tuesday,08:00,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Wandering (S),National Or State Highway,No,No
+20175013,WA,March,2017,Tuesday,17:15,Single vehicle,1,No,No,No,50,Inner Regional Australia,Bunbury,Busselton (C),Local Road,No,No
+20175018,WA,March,2017,Monday,15:15,Single vehicle,1,No,No,No,60,Major Cities of Australia,Perth - Inner,Nedlands (C),National Or State Highway,No,No
+20175028,WA,March,2017,Thursday,20:20,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Perth - Inner,Claremont (T),Arterial Road,No,No
+20175034,WA,March,2017,Thursday,14:28,Multiple vehicle,1,No,No,No,50,Outer Regional Australia,Western Australia - Outback (South),Kalgoorlie/Boulder (C),Local Road,No,No
+20175041,WA,March,2017,Wednesday,09:45,Multiple vehicle,1,No,No,No,70,Inner Regional Australia,Bunbury,Busselton (C),Arterial Road,No,No
+20175048,WA,March,2017,Thursday,17:40,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Moora (S),Arterial Road,No,No
+20175050,WA,March,2017,Wednesday,14:40,Single vehicle,1,No,No,No,110,Inner Regional Australia,Western Australia - Wheat Belt,Chittering (S),National Or State Highway,No,No
+20175076,WA,March,2017,Friday,12:40,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Dandaragan (S),Arterial Road,No,No
+20175092,WA,March,2017,Tuesday,19:39,Pedestrian,1,No,No,No,50,Outer Regional Australia,Western Australia - Outback (South),Mingenew (S),Local Road,No,No
+20175097,WA,March,2017,Sunday,14:43,Multiple vehicle,1,No,No,No,110,Inner Regional Australia,Western Australia - Wheat Belt,Gingin (S),National Or State Highway,No,No
+20175099,WA,March,2017,Monday,11:00,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Wandering (S),National Or State Highway,No,No
+20175132,WA,March,2017,Friday,11:02,Multiple vehicle,1,No,No,Yes,80,Major Cities of Australia,Perth - North East,Mundaring (S),National Or State Highway,No,No
+20175002,WA,February,2017,Friday,18:15,Single vehicle,1,No,No,No,50,Major Cities of Australia,Perth - North West,Wanneroo (C),Undetermined,No,No
+20175062,WA,February,2017,Friday,16:45,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Bunbury,Donnybrook-Balingup (S),National Or State Highway,No,No
+20175074,WA,February,2017,Friday,09:30,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Plantagenet (S),National Or State Highway,No,No
+20175086,WA,February,2017,Saturday,15:35,Single vehicle,1,No,No,No,110,Outer Regional Australia,Western Australia - Wheat Belt,Merredin (S),National Or State Highway,No,No
+20175112,WA,February,2017,Saturday,16:45,Multiple vehicle,1,No,No,No,110,Inner Regional Australia,Bunbury,Capel (S),National Or State Highway,No,No
+20175144,WA,February,2017,Friday,15:55,Multiple vehicle,1,No,Yes,No,110,Inner Regional Australia,Perth - South East,Serpentine-Jarrahdale (S),National Or State Highway,No,No
+20175040,WA,January,2017,Friday,17:30,Single vehicle,1,No,No,No,90,Inner Regional Australia,Bunbury,Donnybrook-Balingup (S),National Or State Highway,No,No
+20175049,WA,January,2017,Saturday,01:33,Single vehicle,1,No,No,No,70,Inner Regional Australia,Bunbury,Busselton (C),Arterial Road,No,No
+20175057,WA,January,2017,Sunday,10:23,Single vehicle,1,No,No,No,-9,Major Cities of Australia,Perth - North West,Stirling (C),Arterial Road,No,No
+20175085,WA,January,2017,Monday,11:43,Single vehicle,1,No,No,No,80,Major Cities of Australia,Perth - South West,Cockburn (C),National Or State Highway,No,No
+20175088,WA,January,2017,Sunday,17:14,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Perth - North West,Joondalup (C),Arterial Road,Yes,No
+20175089,WA,January,2017,Tuesday,19:58,Multiple vehicle,1,No,No,No,60,Outer Regional Australia,Western Australia - Outback (South),Greater Geraldton (C),Local Road,No,No
+20175094,WA,January,2017,Sunday,16:30,Multiple vehicle,1,No,No,No,100,Major Cities of Australia,Perth - South East,Canning (C),National Or State Highway,Yes,No
+20175098,WA,January,2017,Sunday,12:11,Multiple vehicle,2,No,No,No,110,Inner Regional Australia,Perth - South East,Armadale (C),National Or State Highway,No,No
+20175108,WA,January,2017,Tuesday,15:21,Multiple vehicle,1,No,No,No,70,Major Cities of Australia,Perth - North West,Joondalup (C),Local Road,Yes,No
+20175125,WA,January,2017,Monday,01:20,Multiple vehicle,1,No,Yes,No,50,Major Cities of Australia,Perth - Inner,Perth (C),Arterial Road,No,No
+20175128,WA,January,2017,Wednesday,05:15,Single vehicle,1,No,No,No,110,Major Cities of Australia,Perth - North West,Wanneroo (C),Local Road,No,No
+20175139,WA,January,2017,Tuesday,12:48,Pedestrian,1,No,No,No,60,Very Remote Australia,Western Australia - Outback (North),Derby-West Kimberley (S),National Or State Highway,No,No
+20175145,WA,January,2017,Wednesday,18:30,Single vehicle,1,No,No,No,80,Very Remote Australia,Western Australia - Outback (South),Coolgardie (S),National Or State Highway,No,No
+20175148,WA,January,2017,Monday,18:27,Single vehicle,1,No,No,No,110,Inner Regional Australia,Bunbury,Harvey (S),Local Road,Yes,No
+20176003,TAS,December,2017,Saturday,22:00,Single vehicle,1,No,No,No,80,Inner Regional Australia,Hobart,Kingborough (M),National Or State Highway,No,No
+20176004,TAS,December,2017,Sunday,14:45,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,Hobart,Clarence (C),National Or State Highway,No,No
+20176016,TAS,December,2017,Thursday,10:10,Single vehicle,1,No,Yes,No,70,Inner Regional Australia,Hobart,Brighton (M),Arterial Road,No,No
+20176010,TAS,November,2017,Wednesday,20:58,Multiple vehicle,1,No,No,No,50,Inner Regional Australia,Launceston and North East,Launceston (C),Collector Road,No,No
+20176022,TAS,November,2017,Wednesday,18:02,Multiple vehicle,1,No,Yes,No,100,Outer Regional Australia,Launceston and North East,Launceston (C),Arterial Road,No,No
+20176026,TAS,November,2017,Thursday,13:20,Single vehicle,1,No,No,No,80,Inner Regional Australia,Hobart,Clarence (C),Sub-Arterial Road,No,No
+20176032,TAS,November,2017,Monday,22:05,Single vehicle,1,No,No,No,100,Inner Regional Australia,Launceston and North East,Meander Valley (M),Arterial Road,No,No
+20176005,TAS,October,2017,Wednesday,07:13,Multiple vehicle,1,No,No,Yes,70,Inner Regional Australia,Hobart,Hobart (C),National Or State Highway,No,No
+20176012,TAS,October,2017,Sunday,12:15,Single vehicle,1,No,No,No,100,Outer Regional Australia,West and North West,Latrobe (M) (Tas.),Arterial Road,No,No
+20176019,TAS,October,2017,Monday,09:10,Pedestrian,1,No,No,No,50,Inner Regional Australia,Launceston and North East,Launceston (C),Arterial Road,No,No
+20176030,TAS,October,2017,Friday,12:15,Single vehicle,1,No,No,No,100,Remote Australia,West and North West,West Coast (M),Local Road,No,No
+20176013,TAS,September,2017,Sunday,17:52,Multiple vehicle,1,No,No,No,60,Outer Regional Australia,West and North West,Central Coast (M) (Tas.),Collector Road,No,No
+20176028,TAS,September,2017,Tuesday,08:07,Multiple vehicle,1,No,Yes,No,90,Outer Regional Australia,West and North West,Latrobe (M) (Tas.),National Or State Highway,No,No
+20176008,TAS,August,2017,Monday,21:29,Pedestrian,1,No,No,No,100,Outer Regional Australia,Launceston and North East,Northern Midlands (M),Sub-Arterial Road,No,No
+20176024,TAS,August,2017,Tuesday,15:17,Multiple vehicle,1,No,No,No,110,Outer Regional Australia,West and North West,Central Coast (M) (Tas.),Collector Road,No,No
+20176014,TAS,July,2017,Friday,23:34,Single vehicle,1,No,No,No,100,Outer Regional Australia,Launceston and North East,Northern Midlands (M),Arterial Road,No,No
+20176023,TAS,July,2017,Friday,13:41,Single vehicle,1,No,No,No,60,Inner Regional Australia,Hobart,Hobart (C),Collector Road,No,No
+20176025,TAS,July,2017,Saturday,06:13,Single vehicle,1,No,No,No,70,Inner Regional Australia,Hobart,Brighton (M),Collector Road,No,No
+20176001,TAS,June,2017,Sunday,19:10,Multiple vehicle,1,No,Yes,No,50,Inner Regional Australia,Hobart,Clarence (C),Local Road,No,No
+20176006,TAS,June,2017,Friday,08:30,Multiple vehicle,1,No,No,Yes,60,Outer Regional Australia,South East,Derwent Valley (M),Sub-Arterial Road,No,No
+20176015,TAS,June,2017,Thursday,21:00,Multiple vehicle,1,No,No,No,50,Inner Regional Australia,Hobart,Hobart (C),Local Road,No,No
+20176021,TAS,June,2017,Sunday,08:07,Single vehicle,1,No,No,No,110,Inner Regional Australia,Launceston and North East,Launceston (C),National Or State Highway,No,No
+20176029,TAS,June,2017,Thursday,09:20,Multiple vehicle,1,Yes,No,No,60,Inner Regional Australia,Launceston and North East,Launceston (C),Sub-Arterial Road,No,No
+20176009,TAS,May,2017,Tuesday,09:30,Multiple vehicle,1,No,No,No,80,Inner Regional Australia,Hobart,Derwent Valley (M),National Or State Highway,No,No
+20176011,TAS,May,2017,Sunday,17:35,Multiple vehicle,2,No,No,No,80,Inner Regional Australia,Hobart,Clarence (C),Sub-Arterial Road,No,No
+20176017,TAS,May,2017,Friday,20:30,Single vehicle,1,No,No,No,100,Outer Regional Australia,Launceston and North East,Meander Valley (M),Local Road,No,No
+20176027,TAS,May,2017,Saturday,14:30,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Launceston and North East,Launceston (C),Arterial Road,No,No
+20176033,TAS,April,2017,Sunday,22:48,Single vehicle,1,No,No,No,50,Inner Regional Australia,Hobart,Brighton (M),Collector Road,No,No
+20176002,TAS,March,2017,Thursday,11:29,Single vehicle,1,No,No,No,50,Inner Regional Australia,Launceston and North East,West Tamar (M),Local Road,No,No
+20176007,TAS,March,2017,Saturday,13:20,Multiple vehicle,1,No,No,No,100,Remote Australia,West and North West,West Coast (M),Arterial Road,No,No
+20176020,TAS,February,2017,Monday,13:50,Multiple vehicle,1,No,Yes,No,100,Outer Regional Australia,Launceston and North East,Break O'Day (M),Arterial Road,No,No
+20176018,TAS,January,2017,Friday,19:00,Single vehicle,1,No,No,No,100,Outer Regional Australia,Launceston and North East,Northern Midlands (M),Arterial Road,No,No
+20176031,TAS,January,2017,Friday,16:10,Multiple vehicle,1,No,No,No,60,Inner Regional Australia,Hobart,Hobart (C),Sub-Arterial Road,No,No
+20178004,ACT,November,2017,Wednesday,21:37,Single vehicle,1,No,No,No,100,Inner Regional Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No
+20178003,ACT,May,2017,Wednesday,11:55,Multiple vehicle,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No
+20178005,ACT,March,2017,Friday,06:25,Multiple vehicle,1,No,No,No,100,Inner Regional Australia,Australian Capital Territory,Unincorporated ACT,National Or State Highway,No,No
+20178002,ACT,February,2017,Monday,12:15,Multiple vehicle,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No
